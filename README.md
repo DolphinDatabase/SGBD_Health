@@ -8,7 +8,7 @@ quickly, securely and reliably with a user-friendly and easy-to-understand inter
 ## Dev Team
 
 - Neylkson Diniz Pereira (Scrum Master) [LinkedIn](https://www.linkedin.com/in/neylkson-diniz-a3b9396b), [GitHub](https://github.com/NeyDiniz)
-- Stephani Soares Junqueira (P. O)
+- Stephani Soares Junqueira (P. O) [LinkedIn](https://www.linkedin.com/in/stephani-soares) [Github](https://github.com/stessada)
 - Guilherme Rodolfo Silva (DEV)
 - Guilherme Akinyele de Almeida (DEV) - [LinkedIn](https://www.linkedin.com/in/guilherme-akinyele/), [GitHub](https://github.com/gui-akinyele)
 - José Maria Reis dos Santos (DEV) - [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-maria-reis-dos-santos-6ab656214/), [GitHub](https://github.com/Jose0588) 
