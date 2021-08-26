@@ -1,4 +1,4 @@
-# Database Scan
+# SGBD Health
 
 ## General info
 
