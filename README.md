@@ -13,7 +13,7 @@ quickly, securely and reliably with a user-friendly and easy-to-understand inter
 - Guilherme Akinyele de Almeida (DEV) - [LinkedIn](https://www.linkedin.com/in/guilherme-akinyele/), [GitHub](https://github.com/gui-akinyele)
 - José Maria Reis dos Santos (DEV) - [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-maria-reis-dos-santos-6ab656214/), [GitHub](https://github.com/Jose0588) 
 - Kauã Walbon Santos Borgarelli Tavares (DEV) - [LinkedIn](https://www.linkedin.com/in/kau%C3%A3-walbon-santos-borgarelli-tavares-5bb67220a/), [GitHub](https://github.com/Borgarelli)
-- Leandro Massafera Vieira (DEV)
+- Leandro Massafera Vieira (DEV) [LinkedIn](http://linkedin.com/in/leandro-massafera), [Github](https://github.com/Leandro-massafera) 
 
 ## Table of contents
 
