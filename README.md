@@ -1,7 +1,5 @@
 # SGBD Health
 
-
-
 ## Tabela de Conteúdos
 
 * [Descrição](#descrição)
