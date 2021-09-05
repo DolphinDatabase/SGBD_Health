@@ -1,18 +1,20 @@
 # SGBD Health
 
+> Status do Projeto: Em desenvolvimento :warning:
+
 ## Tabela de Conteúdos
 
 * [Descrição](#descrição)
-* [Dev Team](dev-team)
 * [Dependências e Tecnologias](#dependências-e-tecnologias)
 * [Software](#software)
 * [Backlog Product](#backlog-product)
 * [Escopo de Recursos](#escopo-de-recursos)
 * [Cronograma do API](#cronograma-do-api)
+* [Dev Team](dev-team)
 
 ## Descrição
 
-<p align="justify">É um sistema criado para realizar análises de bancos de dados cadastrados de forma rápida, segura e confiável com uma interface amigável e de fácil compreensão.
+<p align="justify">É um sistema de monitoramento e alerta voltado para SGBDs cadastrados de forma rápida, segura e confiável com uma interface amigável e de fácil compreensão.
 
 ## Dependências e Tecnologias
 
