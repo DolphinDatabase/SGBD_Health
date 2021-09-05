@@ -1,26 +1,23 @@
 # SGBD Health
 
-## Table of contents
 
-* [General info](#general-info)
+
+## Tabela de Conteúdos
+
+* [Descrição](#descrição)
 * [Dev Team](dev-team)
-* [Technologies](#technologies)
+* [Dependências e Tecnologias](#dependências-e-tecnologias)
 * [Software](#software)
 * [Backlog Product](#backlog-product)
-* [Scope of Features](#scope-of-features)
-* [API Schedule](#api-schedule)
+* [Escopo de Recursos](#escopo-de-recursos)
+* [Cronograma do API](#cronograma-do-api)
 
-## General info
+## Descrição
 
-It is a system created to perform analysis of registered databases
-quickly, securely and reliably with a user-friendly and easy-to-understand interface.
+<p align="justify">É um sistema criado para realizar análises de bancos de dados cadastrados de forma rápida, segura e confiável com uma interface amigável e de fácil compreensão.
 
-## Dev Team
-
-Para acessar clique [Wiki](https://github.com/DolphinDatabase/Database-Scan/wiki/DEV_TEAM) 
-
-## API Schedule
-
+## Cronograma do API
+ 
 - 16/08 a 22/08 Project kick-off
 - 30/08 a 19/09 Sprint 1
 - 20/09 a 10/10 Sprint 2
@@ -29,7 +26,7 @@ Para acessar clique [Wiki](https://github.com/DolphinDatabase/Database-Scan/wiki
 - 29/11 a 05/12 Final presentation
 - 16/12 at 7pm Solutions Fair
 
-## Technologies 
+## Dependências e Tecnologias
 
 - Java
 - PostgreSQL 13.4-1
@@ -46,12 +43,15 @@ Para acessar clique [Wiki](https://github.com/DolphinDatabase/Database-Scan/wiki
 - Database registration
 - Alert 
 
-## Scope of Features
+## Escopo de Recursos
 
 
 
 ## Illustration 
 
+## Dev Team
+
+Para acessar clique [Wiki](https://github.com/DolphinDatabase/Database-Scan/wiki/DEV_TEAM) 
 
 
 
