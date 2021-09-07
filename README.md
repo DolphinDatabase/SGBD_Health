@@ -1,5 +1,7 @@
 # SGBD Health
 
+![Logo_FInal_PNG](https://user-images.githubusercontent.com/89356780/132342537-613c29e1-5ee8-481c-b44a-c0ad4d29325d.png)
+
 > Status do Projeto: Em desenvolvimento :warning:
 
 ## Tabela de Conteúdos
