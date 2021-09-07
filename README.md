@@ -1,7 +1,5 @@
 # SGBD Health
 
-![Logo_FInal_PNG](https://user-images.githubusercontent.com/89356780/132342537-613c29e1-5ee8-481c-b44a-c0ad4d29325d.png)
-
 > Status do Projeto: Em desenvolvimento :warning:
 
 ## Tabela de Conteúdos
@@ -29,15 +27,15 @@
 
 ## Backlog Product
 
- [] Coleta de métricas de uma ou mais SGBDs (PostgreSQL) remoto
- [] Tratamento das métricas (histórico, registro, relatórios, disponibilidade, alertas e valores atingidos durante a operação)
-  [] Registro periódico de métricas 
-  [] Histórico de métricas
-  [] Relatórios de métricas
-  [] Alertas de espaço em disco do SGBD
-  [] Funcionamento do BD (tempo de queries, quantidade de queries, uso de índices)
- [] Plotagem de gráficos através de um dashboard/interface
- [] Cadastro de dados de conexão dos SGBDs (acesso a estastítica por tabelas)
+ - [ ] Coleta de métricas de uma ou mais SGBDs (PostgreSQL) remoto;
+ - [ ] Tratamento das métricas (histórico, registro, relatórios, disponibilidade, alertas e valores atingidos durante a operação)
+   - [ ] Registro periódico de métricas 
+   - [ ] Histórico de métricas
+   - [ ] Relatórios de métricas
+   - [ ] Alertas de espaço em disco do SGBD
+   - [ ] Funcionamento do BD (tempo de queries, quantidade de queries, uso de índices)
+ - [ ] Plotagem de gráficos através de um dashboard/interface
+ - [ ] Cadastro de dados de conexão dos SGBDs (acesso a estastítica por tabelas)
  
 
 ## Escopo de Recursos
