@@ -6,34 +6,39 @@
 
 ## Tabela de Conteúdos
 
-* [Descrição](#descrição)
-* [Dependências e Tecnologias](#dependências-e-tecnologias)
-* [Software](#software)
-* [Backlog Product](#backlog-product)
-* [Escopo de Recursos](#escopo-de-recursos)
-* [Cronograma do API](#cronograma-do-api)
-* [Dev Team](dev-team)
+ * [Descrição](#descrição)
+ * [Dependências e Tecnologias](#dependências-e-tecnologias)
+ * [Software](#software)
+ * [Backlog Product](#backlog-product)
+ * [Escopo de Recursos](#escopo-de-recursos)
+ * [Cronograma do API](#cronograma-do-api)
+ * [Dev Team](dev-team)
 
 ## Descrição
 
-<p align="justify">É um sistema de monitoramento e alerta voltado para SGBDs cadastrados de forma rápida, segura e confiável com uma interface amigável e de fácil compreensão.
+<p align="justify">É um sistema de monitoramento e alerta voltado para SGBDs cadastrados. Trazendo as informações de forma rápida, segura e confiável com uma interface amigável e de fácil compreensão.
 
 ## Dependências e Tecnologias
 
-- Java
-- PostgreSQL 13.4-1
+ - Java
+ - PostgreSQL 13.4-1
 
 ## Software 
 
-- Eclipse - IDE
+ - Eclipse - IDE
 
 ## Backlog Product
 
-- Collect metrics periodically
-- Data processing
-- Dashboard/Interface
-- Database registration
-- Alert 
+ [] Coleta de métricas de uma ou mais SGBDs (PostgreSQL) remoto
+ [] Tratamento das métricas (histórico, registro, relatórios, disponibilidade, alertas e valores atingidos durante a operação)
+  [] Registro periódico de métricas 
+  [] Histórico de métricas
+  [] Relatórios de métricas
+  [] Alertas de espaço em disco do SGBD
+  [] Funcionamento do BD (tempo de queries, quantidade de queries, uso de índices)
+ [] Plotagem de gráficos através de um dashboard/interface
+ [] Cadastro de dados de conexão dos SGBDs (acesso a estastítica por tabelas)
+ 
 
 ## Escopo de Recursos
 
