@@ -11,7 +11,7 @@
  * [Backlog Product](#backlog-product)
  * [Escopo de Recursos](#escopo-de-recursos)
  * [Cronograma do API](#cronograma-do-api)
- * [Dev Team](dev-team)
+ * [Dev Team](#dev-team)
 
 ## Descrição
 
