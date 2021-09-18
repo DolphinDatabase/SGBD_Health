@@ -23,12 +23,11 @@ registros).
 
 ## Dependências e Tecnologias
 
- ![Badge](https://img.shields.io/badge/PostGreSQL-13.4--1-yellowgreen)  
- ![Badge](https://img.shields.io/badge/-Trello-blue) ![](https://trello.com/b/cE6ZnCBg/sgdd-health)   
- ![Badge](https://img.shields.io/badge/-Slack-blue)  
- ![Badge](https://img.shields.io/badge/Google-Meet-Yellow)  
- ![](https://www.bing.com/th?id=A9eeae5428d3ec4f181b9f86b2970be4f&w=110&h=110&c=7&rs=1&qlt=80&o=6&dpr=1.2&pid=SANGAM)
- ![Figma](https://www.bing.com/th?id=AMMS_22337b2406f2b6a77691a25395f3fd54&w=110&h=110&c=7&rs=1&qlt=80&pcl=f9f9f9&o=6&cdv=1&dpr=1.2&pid=16.1) 
+ - [Trello](https://trello.com/?gclid=729c0adf2ce81b5be65b6b9969dc733f&gclsrc=3p.ds&&adgroup=1306220046076922&campaign=380782742&creative=81638805091294&device=c&keyword=trello&ds_k=trello&matchtype=e&network=o&ds_kids=p54670250478&ds_e=MICROSOFT&ds_eid=700000001738798&ds_e1=MICROSOFT&msclkid=729c0adf2ce81b5be65b6b9969dc733f)  
+ - [Figma](https://www.figma.com/file/d9FFlhvqzrC0eJ78MLyrnh/Figma-Admin-Dashboard-UI-Kit-(Community)?node-id=4855%3A97)  
+ - [Slack](https://app.slack.com/client/T02BFJJUG22/C02BFJQDQ22)  
+ - [Google Meet](https://meet.google.com) 
+ - [Google Sheets](https://docs.google.com/spreadsheets/d/1R_NrOvCbuW5_c-xeFrFmDRHBfWwYttFWlmTgW5oBQmI/edit#gid=0)
  
  
 ## Software 
