@@ -15,7 +15,11 @@
 
 ## Descrição
 
-<p align="justify">É um sistema de monitoramento e alerta voltado para SGBDs cadastrados. Trazendo as informações de forma rápida, segura e confiável com uma interface amigável e de fácil compreensão.
+<p align="justify">Desenvolvimento de uma TURN – KEY, que é uma aplicação de monitoramento voltada
+somente a SGBDs, que monitore a performance, ou seja, colher dados do SGBD 
+(memória, tempo de consultas, disco, transações, evolução da memória, caches, 
+registros).
+
 
 ## Dependências e Tecnologias
 
