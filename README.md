@@ -15,10 +15,7 @@
 
 ## Descrição
 
-<p align="justify">Desenvolvimento de uma TURN – KEY, que é uma aplicação de monitoramento voltada
-somente a SGBDs, que monitore a performance, ou seja, colher dados do SGBD 
-(memória, tempo de consultas, disco, transações, evolução da memória, caches, 
-registros).
+<p align="justify">É uma aplicação de monitoramento voltada somente a SGBDs, focada na performance/desempenho. Através da coleta de dados do SGBD (memória, tempo de consultas, espaço em disco, transações, evolução da memória, caches e registros) que influenciam na saúde e manutenção periódica.
 
 
 ## Dependências e Tecnologias
@@ -27,8 +24,8 @@ registros).
  - [Figma](https://www.figma.com/file/d9FFlhvqzrC0eJ78MLyrnh/Figma-Admin-Dashboard-UI-Kit-(Community)?node-id=4855%3A97)  
  - [Slack](https://app.slack.com/client/T02BFJJUG22/C02BFJQDQ22)  
  - [Google Meet](https://meet.google.com) 
- - [Google Sheets](https://docs.google.com/spreadsheets/d/1R_NrOvCbuW5_c-xeFrFmDRHBfWwYttFWlmTgW5oBQmI/edit#gid=0)
- 
+ - [Google Sheets](https://docs.google.com/spreadsheets/d/1R_NrOvCbuW5_c-xeFrFmDRHBfWwYttFWlmTgW5oBQmI/edit#gid=0)  
+ - [PostgreSQL](https://www.postgresql.org)
  
 ## Software 
 
