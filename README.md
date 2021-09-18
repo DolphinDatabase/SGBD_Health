@@ -1,7 +1,7 @@
 # SGBD Health
 
 
-> Status do Projeto: Em desenvolvimento :warning:
+> ![Badge](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-yellow)
 
 ## Tabela de Conteúdos
 
@@ -23,16 +23,16 @@ registros).
 
 ## Dependências e Tecnologias
 
- - Java
- - PostgreSQL 13.4-1
+ ![Badge](https://img.shields.io/badge/PostGreSQL-13.4--1-yellowgreen)
 
 ## Software 
 
  - Eclipse - IDE
 
 ## Backlog Product
-
- - [ ] Coleta de métricas de uma ou mais SGBDs (PostgreSQL) remoto;
+ 
+ - [X] Conexão SGBD
+ - [X] Coleta de métricas de uma ou mais SGBDs (PostgreSQL) remoto;
  - [ ] Tratamento das métricas (histórico, registro, relatórios, disponibilidade, alertas e valores atingidos durante a operação)
    - [ ] Registro periódico de métricas 
    - [ ] Histórico de métricas
@@ -40,12 +40,13 @@ registros).
    - [ ] Alertas de espaço em disco do SGBD
    - [ ] Funcionamento do BD (tempo de queries, quantidade de queries, uso de índices)
  - [ ] Plotagem de gráficos através de um dashboard/interface
+   - [X] Interface gráfica inicial
  - [ ] Cadastro de dados de conexão dos SGBDs (acesso a estastítica por tabelas)
  
 
 ## Escopo de Recursos
 
-## Illustration 
+## Ilustração
  
 ## Cronograma do API
  
