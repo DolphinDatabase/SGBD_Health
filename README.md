@@ -24,17 +24,23 @@ registros).
 ## Dependências e Tecnologias
 
  ![Badge](https://img.shields.io/badge/PostGreSQL-13.4--1-yellowgreen)  
- ![Badge](https://img.shields.io/badge/-Trello-blue)
+ ![Badge](https://img.shields.io/badge/-Trello-blue) ![](https://trello.com/b/cE6ZnCBg/sgdd-health)   
+ ![Badge](https://img.shields.io/badge/-Slack-blue)  
+ ![Badge](https://img.shields.io/badge/Google-Meet-Yellow)  
+ ![](https://www.bing.com/th?id=A9eeae5428d3ec4f181b9f86b2970be4f&w=110&h=110&c=7&rs=1&qlt=80&o=6&dpr=1.2&pid=SANGAM)
+ ![Figma](https://www.bing.com/th?id=AMMS_22337b2406f2b6a77691a25395f3fd54&w=110&h=110&c=7&rs=1&qlt=80&pcl=f9f9f9&o=6&cdv=1&dpr=1.2&pid=16.1) 
+ 
+ 
 ## Software 
 
- - Eclipse - IDE
+ ![](https://img.shields.io/badge/Eclipse-IDE-blue)
 
 ## Backlog Product
  
  - [X] Conexão SGBD
  - [X] Coleta de métricas de uma ou mais SGBDs (PostgreSQL) remoto;
  - [ ] Tratamento das métricas (histórico, registro, relatórios, disponibilidade, alertas e valores atingidos durante a operação)
-   - [ ] Registro periódico de métricas 
+   - [ ] Coleta periódico de métricas 
    - [ ] Histórico de métricas
    - [ ] Relatórios de métricas
    - [ ] Alertas de espaço em disco do SGBD
@@ -47,6 +53,8 @@ registros).
 ## Escopo de Recursos
 
 ## Ilustração
+ 
+ Para ver o protótipo da aplicação clique [aqui](https://youtu.be/8wiEfhklJik)
  
 ## Cronograma do API
  
