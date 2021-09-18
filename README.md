@@ -23,8 +23,8 @@ registros).
 
 ## Dependências e Tecnologias
 
- ![Badge](https://img.shields.io/badge/PostGreSQL-13.4--1-yellowgreen)
-
+ ![Badge](https://img.shields.io/badge/PostGreSQL-13.4--1-yellowgreen)  
+ ![Badge](https://img.shields.io/badge/-Trello-blue)
 ## Software 
 
  - Eclipse - IDE
