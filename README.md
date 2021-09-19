@@ -39,7 +39,7 @@
 
 ## Pré-requisitos e como rodar a aplicação/testes
   
-  ### Para acessar o arquivo [executável](https://github.com/DolphinDatabase/SGBD_Health/blob/main/Back%20end/c%C3%B3digoapi/api.jar) 
+  ### Para acessar o arquivo [executável](https://github.com/DolphinDatabase/SGBD_Health/tree/main/executavel) 
   
   Para os dados obtidos na aplicação:
   - Coletor de estatísticas e todas as métricas [acesse](https://www.postgresql.org/docs/9.6/monitoring-stats.html)  
