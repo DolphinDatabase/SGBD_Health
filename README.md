@@ -7,7 +7,7 @@
 
  * [Descrição](#descrição)
  * [Backlog Product](#backlog-product)  
- * [Pré-requisitos e como rodar a aplicação/testes](Pré-requisitos_e_como_rodar_a_aplicaão/testes)
+ * [Pré-requisitos e como rodar a aplicação/testes](#Pré-requisitos_e_como_rodar_a_aplicaão_/_testes)
  * [Escopo de Recursos](#escopo-de-recursos)  
  * [Dependências e Tecnologias](#dependências-e-tecnologias)
  * [Cronograma do API](#cronograma-do-api)
@@ -74,6 +74,9 @@
 
 Para acessar clique [aqui](https://github.com/DolphinDatabase/Database-Scan/wiki/DEV_TEAM) 
 
+## Autor
+ 
+ 
 ## Licença
 
 
