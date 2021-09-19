@@ -35,14 +35,22 @@
   
  ## Ilustração das funcionalidades  
   
-  ### Seleção de métricas
+  ### Cadastro do Banco de dados
   
   <p align="left">
-  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/main/Images/cadastro%20de%20bd.jpg?w=400"height="300" width="400" /> <p align="right">
+  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/main/Images/1.%20Cadastro%20BD%20-%20SPRINT%202.png?w=400"height="300" width="400" /> <p align="right">
    
-  ### Exibição de métricas 
+  ### Banco de dados cadastrados
   <p align="left">
-  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/main/Images/bd%20cadastrados.jpg?w=400"height="300" width="400" /> 
+  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/main/Images/2.%20BD%20cadastrados-1.png?w=400"height="300" width="400" /> 
+    
+  ### Histórico de métricas
+  <p align="left">
+  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/main/Images/3.%20Hist%C3%B3rico%20de%20m%C3%A9tricas.png?w=400"height="300" width="400" /> 
+  
+  ### Exibição de métricas
+  <p align="left">
+  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/main/Images/4.%20Exibi%C3%A7%C3%A3o%20de%20m%C3%A9tricas%20.png?w=400"height="300" width="400" />   
 
  ## Benefícios
   
