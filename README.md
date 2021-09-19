@@ -54,7 +54,7 @@
   
  ## Gráfico de Burndown
   
-  ![]()
+  ![](https://github.com/DolphinDatabase/SGBD_Health/blob/main/Images/BACKLOG%20-%20Necto%20-%20Coleta%20de%20M%C3%A9tricas%20BD%20-%20Burndown%20Sprint%201(1).jpg)
   
   
   
