@@ -54,7 +54,7 @@
 
  ## Benefícios
   
-  - O cliente não precisa alterar a senha e o usuário para cadastrar e se conectar a aplicação e também vai poder buscar as métricas quando quiser.
+  - Não será necessário alterar a senha e o usuário para cadastrar e se conectar a aplicação, além da possibilidade de acessar métricas anteriores.
   
  ## Gráfico de Burndown
   
