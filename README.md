@@ -38,6 +38,17 @@
  - Cadastro de dados de conexão dos SGBDs (acesso a estastítica por tabelas)
 
 ## Pré-requisitos e como rodar a aplicação/testes
+  
+  ### Para acessar o arquivo [executável](https://github.com/DolphinDatabase/SGBD_Health/blob/main/Back%20end/c%C3%B3digoapi/api.jar) 
+  
+  Para os dados obtidos na aplicação:
+  - Coletor de estatísticas e todas as métricas [acesse](https://www.postgresql.org/docs/9.6/monitoring-stats.html)  
+  - Consulta relacionada a primeira métrica [acesse](https://www.postgresql.org/docs/9.5/pgstatstatements.html)  
+  - Tutorial para consultar a primeira métrica [acesse](https://www.oreilly.com/library/view/mastering-postgresql-96/9781783555352/eb2d7469-fc3b-4b23-a1a7-9272ac0268f8.xhtml)  
+  - Para passar os parâmetros [acesse](https://devtools.com.br/blog/alterando-a-senha-do-usuario-postgres/)  
+    - url="jdbc:potgresql://localhost:5432/";
+    - usuario="postgres;
+    - senha="postgre"
 
 ## Escopo de Recursos
  - [X] Conexão SGBD
