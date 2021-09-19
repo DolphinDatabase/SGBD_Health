@@ -3,7 +3,7 @@
 </p>
 <h1 align="center"> SGBD Health </h1>  
 
-> ![Badge](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-yellow)
+![Badge](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-yellow) 🚧 
 
 ## Tabela de Conteúdos
 
@@ -61,13 +61,13 @@
   - Para informações relacionadas apenas ao pg_stat_statements [acesse](https://www.postgresql.org/docs/9.5/pgstatstatements.html)  
   
 
-## Escopo de Recursos
- - [X] Conexão SGBD
- - [X] Coleta e consulta de métricas
- - [X] Interface inicial
+## 📝 Escopo de Recursos
+ - ✔️ Conexão SGBD
+ - ✔️ Coleta e consulta de métricas
+ - ✔️ Interface inicial
 
  
-## Dependências e Tecnologias
+## 🖥️ Tecnologias
 
  - Para organização do projeto [Trello](https://trello.com/?gclid=729c0adf2ce81b5be65b6b9969dc733f&gclsrc=3p.ds&&adgroup=1306220046076922&campaign=380782742&creative=81638805091294&device=c&keyword=trello&ds_k=trello&matchtype=e&network=o&ds_kids=p54670250478&ds_e=MICROSOFT&ds_eid=700000001738798&ds_e1=MICROSOFT&msclkid=729c0adf2ce81b5be65b6b9969dc733f)  
  - Para desenvolvimento do protótipo [Figma](https://www.figma.com/file/d9FFlhvqzrC0eJ78MLyrnh/Figma-Admin-Dashboard-UI-Kit-(Community)?node-id=4855%3A97)  
@@ -78,11 +78,11 @@
  - Para desenvolvimento do código [Eclipse](https://www.eclipse.org/downloads/)
  
  
-## Ilustração
+## 📹 Ilustração
  
  Para acessar o vídeo de demonstração da aplicação em uso, clique [aqui](https://youtu.be/8wiEfhklJik)
  
-## Cronograma do API
+## 📆 Cronograma do API
  
 | Data | Evento |
 | -------| --------- |
@@ -94,11 +94,11 @@
 | 29/11 a 05/12 | Apresentação Final |
 | 16/12 às 19h | Feira de Soluções |
 
-## Dev Team
+## 👨‍💻💪 Dev Team 
 
 Para acessar clique [aqui](https://github.com/DolphinDatabase/Database-Scan/wiki/DEV_TEAM) 
 
-## Autor
+## 👨‍💻 Autor
  
 <p align="left">
   <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/main/Images/me.jpg" alt="Sublime's custom image?w=100"height="100" width="100" />
@@ -106,6 +106,6 @@ Para acessar clique [aqui](https://github.com/DolphinDatabase/Database-Scan/wiki
 <p align="left">
  
  
-## Licença  
+## 📝 Licença  
 
 Este projeto esta sob licença [MIT](https://github.com/DolphinDatabase/SGBD_Health/blob/main/LICENSE)
