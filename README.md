@@ -39,7 +39,7 @@
    - Interface gráfica inicial
  - Cadastro de dados de conexão dos SGBDs (acesso a estastítica por tabelas)
 
-## Pré-requisitos e como rodar a Aplicação
+## Pré-requisitos e como rodar a Aplicação "api.jar"
   
   ### Download do [executável](https://github.com/DolphinDatabase/SGBD_Health/blob/main/Back%20end/c%C3%B3digoapi/api.jar) 
   
