@@ -9,7 +9,7 @@
 
  * [Descrição](#descrição)
  * [Backlog Product](#backlog-product)  
- * [ Pré-requisitos e como rodar a Aplicação](#Pré-requisitos_e_como_rodar_a_Aplicaão)
+ * [ Pré-requisitos e como rodar a Aplicação](#Pré-requisitos_e_como_rodar_a_Aplicação)
  * [Coletor de Estatísticas](#Coletor-de-Estatísticas)
  * [Escopo de Recursos](#escopo-de-recursos)  
  * [Dependências e Tecnologias](#dependências-e-tecnologias)
