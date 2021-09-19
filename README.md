@@ -89,7 +89,12 @@ Para acessar clique [aqui](https://github.com/DolphinDatabase/Database-Scan/wiki
 
 ## Autor
  
+<p align="left">
+  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/main/Images/me.jpg" alt="Sublime's custom image?w=100"height="100" width="100" />
+</p> 
+<p align="left">
+ 
  
 ## Licença
 
-
+Este projeto esta sob licença [MIT](https://github.com/DolphinDatabase/SGBD_Health/blob/main/LICENSE)
