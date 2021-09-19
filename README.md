@@ -7,13 +7,13 @@
 
  * [Descrição](#descrição)
  * [Backlog Product](#backlog-product)  
- * [Pré-requisitos e como rodar a aplicação/testes](Pré-requisitos_e_como_Rodar_a_aplicaão/testes)
+ * [Pré-requisitos e como rodar a aplicação/testes](Pré-requisitos_e_como_rodar_a_aplicaão/testes)
  * [Escopo de Recursos](#escopo-de-recursos)  
  * [Dependências e Tecnologias](#dependências-e-tecnologias)
- * [Software](#software)
  * [Cronograma do API](#cronograma-do-api)
  * [Dev Team](#dev-team)
- * [Licença](Licença)
+ * [Autor](#Autor)
+ * [Licença](#Licença)
 
 
 ## Descrição
@@ -45,19 +45,18 @@
  
 ## Dependências e Tecnologias
 
- - [Trello](https://trello.com/?gclid=729c0adf2ce81b5be65b6b9969dc733f&gclsrc=3p.ds&&adgroup=1306220046076922&campaign=380782742&creative=81638805091294&device=c&keyword=trello&ds_k=trello&matchtype=e&network=o&ds_kids=p54670250478&ds_e=MICROSOFT&ds_eid=700000001738798&ds_e1=MICROSOFT&msclkid=729c0adf2ce81b5be65b6b9969dc733f)  
- - [Figma](https://www.figma.com/file/d9FFlhvqzrC0eJ78MLyrnh/Figma-Admin-Dashboard-UI-Kit-(Community)?node-id=4855%3A97)  
- - [Slack](https://app.slack.com/client/T02BFJJUG22/C02BFJQDQ22)  
- - [Google Meet](https://meet.google.com) 
- - [Google Sheets](https://docs.google.com/spreadsheets/d/1R_NrOvCbuW5_c-xeFrFmDRHBfWwYttFWlmTgW5oBQmI/edit#gid=0)  
+ - Para organização do projeto [Trello](https://trello.com/?gclid=729c0adf2ce81b5be65b6b9969dc733f&gclsrc=3p.ds&&adgroup=1306220046076922&campaign=380782742&creative=81638805091294&device=c&keyword=trello&ds_k=trello&matchtype=e&network=o&ds_kids=p54670250478&ds_e=MICROSOFT&ds_eid=700000001738798&ds_e1=MICROSOFT&msclkid=729c0adf2ce81b5be65b6b9969dc733f)  
+ - Para desenvolvimento do protótipo [Figma](https://www.figma.com/file/d9FFlhvqzrC0eJ78MLyrnh/Figma-Admin-Dashboard-UI-Kit-(Community)?node-id=4855%3A97)  
+ - Para comunicação [Slack](https://app.slack.com/client/T02BFJJUG22/C02BFJQDQ22)  
+ - Para reuniões [Google Meet](https://meet.google.com) 
+ - Para organização das tarefas [Google Sheets](https://docs.google.com/spreadsheets/d/1R_NrOvCbuW5_c-xeFrFmDRHBfWwYttFWlmTgW5oBQmI/edit#gid=0)  
  - [PostgreSQL](https://www.postgresql.org)
+ - Para desenvolvimento do código [Eclipse](https://www.eclipse.org/downloads/)
  
-## Software 
-
- ![](https://img.shields.io/badge/Eclipse-IDE-blue)
+ 
 ## Ilustração
  
- Para ver o protótipo da aplicação clique [aqui](https://youtu.be/8wiEfhklJik)
+ Para ver o desenvolvimento protótipo da aplicação clique [aqui](https://youtu.be/8wiEfhklJik)
  
 ## Cronograma do API
  
