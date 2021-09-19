@@ -94,7 +94,7 @@
 | 29/11 a 05/12 | Apresentação Final |
 | 16/12 às 19h | Feira de Soluções |
 
-## 👨‍💻💪 Dev Team 
+## 👨‍💻 Dev Team 
 
 Para acessar clique [aqui](https://github.com/DolphinDatabase/Database-Scan/wiki/DEV_TEAM) 
 
