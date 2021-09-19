@@ -3,7 +3,7 @@
 </p>
 <h1 align="center"> SGBD Health </h1>  
 
-![Badge](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-yellow) 🚧 
+![Badge](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-yellow)
 
 ## Tabela de Conteúdos
 
@@ -67,7 +67,7 @@
  - ✔️ Interface inicial
 
  
-## 🖥️ Tecnologias
+## 🛠️ Tecnologias
 
  - Para organização do projeto [Trello](https://trello.com/?gclid=729c0adf2ce81b5be65b6b9969dc733f&gclsrc=3p.ds&&adgroup=1306220046076922&campaign=380782742&creative=81638805091294&device=c&keyword=trello&ds_k=trello&matchtype=e&network=o&ds_kids=p54670250478&ds_e=MICROSOFT&ds_eid=700000001738798&ds_e1=MICROSOFT&msclkid=729c0adf2ce81b5be65b6b9969dc733f)  
  - Para desenvolvimento do protótipo [Figma](https://www.figma.com/file/d9FFlhvqzrC0eJ78MLyrnh/Figma-Admin-Dashboard-UI-Kit-(Community)?node-id=4855%3A97)  
@@ -106,6 +106,7 @@ Para acessar clique [aqui](https://github.com/DolphinDatabase/Database-Scan/wiki
 <p align="left">
  
   [![Linkedin Badge](https://img.shields.io/badge/-Neylkson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/neylkson-diniz-a3b9396b/)](https://www.linkedin.com/in/neylkson-diniz-a3b9396b/)
+  [![Gmail Badge](https://img.shields.io/badge/-neyo.diniz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:neyo.diniz@gmail.com)](mailto:neyo.diniz@gmail.com)
  
 ## 📝 Licença  
 
