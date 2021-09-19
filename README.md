@@ -10,12 +10,14 @@
  * [Descrição](#descrição)
  * [Backlog Product](#backlog-product)  
  * [Pré-requisitos e como rodar a aplicação/testes](#Pré-requisitos_e_como_rodar_a_aplicaão_/_testes)
+ * [Coletor de Estatísticas](#Coletor_de_estatisticas)
  * [Escopo de Recursos](#escopo-de-recursos)  
  * [Dependências e Tecnologias](#dependências-e-tecnologias)
  * [Cronograma do API](#cronograma-do-api)
  * [Dev Team](#dev-team)
  * [Autor](#Autor)
  * [Licença](#Licença)
+
 
 
 ## Descrição
