@@ -41,7 +41,7 @@
 
 ## Pré-requisitos e como rodar a Aplicação "api.jar"
   
-  ### Download do [executável](https://github.com/DolphinDatabase/SGBD_Health/blob/main/Back%20end/c%C3%B3digoapi/api.jar) 
+  ### Download do [executável](https://github.com/DolphinDatabase/SGBD_Health/tree/main/executavel) 
   
   - A conexão do executável está predefinida, conforme abaixo:   
     * url= jdbc:potgresql://localhost:5432/
