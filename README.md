@@ -35,7 +35,7 @@
   
  ## Ilustração das funcionalidades  
   
-  ### Consulta de métricas
+  ### Seleção de métricas
   
   <p align="left">
   <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/main/Images/sele%C3%A7%C3%A3o%20de%20m%C3%A9tricas.jpg?w=400"height="300" width="400" /> <p align="right">
