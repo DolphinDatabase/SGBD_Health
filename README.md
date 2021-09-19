@@ -9,7 +9,7 @@
 
  * [Descrição](#descrição)
  * [Backlog Product](#backlog-product)  
- * [Pré-requisitos e como rodar a aplicação "api.jar"](#Pré-requisitos_e_como_rodar_a_aplicação_"api.jar")
+ * [Pré-requisitos e como rodar a aplicação api.jar](#Pré-requisitos_e_como_rodar_a_aplicação_api.jar)
  * [Coletor de Estatísticas](#Coletor-de-Estatísticas)
  * [Escopo de Recursos](#escopo-de-recursos)  
  * [Tecnologias](#Tecnologias)
@@ -39,7 +39,7 @@
    - Interface gráfica inicial
  - Cadastro de dados de conexão dos SGBDs (acesso a estastítica por tabelas)
 
-## Pré-requisitos e como rodar a aplicação "api.jar"
+## Pré-requisitos e como rodar a aplicação api.jar
   
   ### Download do [executável](https://github.com/DolphinDatabase/SGBD_Health/tree/main/executavel) 
   
