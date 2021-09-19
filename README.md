@@ -95,6 +95,6 @@ Para acessar clique [aqui](https://github.com/DolphinDatabase/Database-Scan/wiki
 <p align="left">
  
  
-## Licença
+## Licença  
 
 Este projeto esta sob licença [MIT](https://github.com/DolphinDatabase/SGBD_Health/blob/main/LICENSE)
