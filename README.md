@@ -1,7 +1,7 @@
-<h1 align="center"> SGBD Health </h1>   
-
-<img src=”https://github.com/DolphinDatabase/SGBD_Health/blob/32e67c903296a5b3f88b82f853ad58075967f71b/Images/Logo.jpg”>
-
+<p align="center">
+  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/main/Images/Logo.jpg" />
+</p>
+<h1 align="center"> SGBD Health </h1>  
 
 > ![Badge](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-yellow)
 
