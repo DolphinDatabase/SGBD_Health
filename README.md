@@ -9,10 +9,10 @@
 
  * [Descrição](#descrição)
  * [Backlog Product](#backlog-product)  
- * [ Pré-requisitos e como rodar a Aplicação](#Pré-requisitos_e_como_rodar_a_Aplicação)
+ * [ Pré-requisitos e como rodar a aplicação "api.jar"](#Pré-requisitos_e_como_rodar_a_aplicação_"api.rar")
  * [Coletor de Estatísticas](#Coletor-de-Estatísticas)
  * [Escopo de Recursos](#escopo-de-recursos)  
- * [Dependências e Tecnologias](#dependências-e-tecnologias)
+ * [Tecnologias](#Tecnologias)
  * [Cronograma do API](#cronograma-do-api)
  * [Dev Team](#dev-team)
  * [Autor](#Autor)
@@ -39,7 +39,7 @@
    - Interface gráfica inicial
  - Cadastro de dados de conexão dos SGBDs (acesso a estastítica por tabelas)
 
-## Pré-requisitos e como rodar a Aplicação "api.jar"
+## Pré-requisitos e como rodar a aplicação "api.jar"
   
   ### Download do [executável](https://github.com/DolphinDatabase/SGBD_Health/tree/main/executavel) 
   
@@ -61,13 +61,13 @@
   - Para informações relacionadas apenas ao pg_stat_statements [acesse](https://www.postgresql.org/docs/9.5/pgstatstatements.html)  
   
 
-## 📝 Escopo de Recursos
+## Escopo de Recursos
  - ✔️ Conexão SGBD
  - ✔️ Coleta e consulta de métricas
  - ✔️ Interface inicial
 
  
-## 🛠️ Tecnologias
+## Tecnologias
 
  - Para organização do projeto [Trello](https://trello.com/?gclid=729c0adf2ce81b5be65b6b9969dc733f&gclsrc=3p.ds&&adgroup=1306220046076922&campaign=380782742&creative=81638805091294&device=c&keyword=trello&ds_k=trello&matchtype=e&network=o&ds_kids=p54670250478&ds_e=MICROSOFT&ds_eid=700000001738798&ds_e1=MICROSOFT&msclkid=729c0adf2ce81b5be65b6b9969dc733f)  
  - Para desenvolvimento do protótipo [Figma](https://www.figma.com/file/d9FFlhvqzrC0eJ78MLyrnh/Figma-Admin-Dashboard-UI-Kit-(Community)?node-id=4855%3A97)  
@@ -78,11 +78,11 @@
  - Para desenvolvimento do código [Eclipse](https://www.eclipse.org/downloads/)
  
  
-## 📹 Ilustração
+## Ilustração
  
  Para acessar o vídeo de demonstração da aplicação em uso, clique [aqui](https://youtu.be/8wiEfhklJik)
  
-## 📆 Cronograma do API
+## Cronograma do API
  
 | Data | Evento |
 | -------| --------- |
@@ -94,11 +94,11 @@
 | 29/11 a 05/12 | Apresentação Final |
 | 16/12 às 19h | Feira de Soluções |
 
-## 👨‍💻 Dev Team 
+## Dev Team 
 
 Para acessar clique [aqui](https://github.com/DolphinDatabase/Database-Scan/wiki/DEV_TEAM) 
 
-## 👨‍💻 Autor
+## Autor
  
 <p align="left">
   <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/main/Images/me.jpg" alt="Sublime's custom image?w=100"height="100" width="100" />
@@ -108,6 +108,6 @@ Para acessar clique [aqui](https://github.com/DolphinDatabase/Database-Scan/wiki
   [![Linkedin Badge](https://img.shields.io/badge/-Neylkson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/neylkson-diniz-a3b9396b/)](https://www.linkedin.com/in/neylkson-diniz-a3b9396b/)
   [![Gmail Badge](https://img.shields.io/badge/-neyo.diniz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:neyo.diniz@gmail.com)](mailto:neyo.diniz@gmail.com)
  
-## 📝 Licença  
+## Licença  
 
 Este projeto esta sob licença [MIT](https://github.com/DolphinDatabase/SGBD_Health/blob/main/LICENSE)
