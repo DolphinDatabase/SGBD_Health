@@ -31,7 +31,7 @@
   
  | Conexão SGBD | Consulta/Coleta de métricas | Interface inicial |
  | ------- | ------- | ------- |
- | Através do JDBC foi gerada a conexão da aplicação Java com o SGBD, utilizando o driver respectivo para cada gerenciador, possibilidando assim, realizar as coletas das métricas | Utilizar o coletor de estatísticas do PostgreSQL que é um subsistema que suporta coleta e relato de informações sobre o servidor, sobre exatamente o que está acontecendo no sistema no momento. Para posteriormente desenvolver a aplicação que realiza consultas sobre o que o coletor obteve | A interface incial é composta por 1 frame que é destinado a conexão (url, usuário e senha) e permite a seleção de métricas a ser exibida |  
+ | Através do JDBC foi gerada a conexão da aplicação Java com o SGBD, utilizando o driver respectivo para cada gerenciador, possibilidando assim, realizar as coletas das métricas | Utilizar o coletor de estatísticas do PostgreSQL que é um subsistema que suporta coleta e relato de informações sobre o servidor, sobre exatamente o que está acontecendo no sistema no momento. Para posteriormente desenvolver a aplicação que realiza consultas sobre o que o coletor obteve | A interface incial é composta por 1 frame que permite a seleção de métricas a ser exibida |  
   
  ## Ilustração das funcionalidades  
   
