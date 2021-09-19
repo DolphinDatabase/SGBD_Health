@@ -9,7 +9,7 @@
 
  * [Descrição](#descrição)
  * [Backlog Product](#backlog-product)  
- * [Pré-requisitos e como rodar a aplicação "api.jar"](#Pré-requisitos-e-como-rodar-a-aplicação-"api.jar")
+ * [Pré-requisitos e como rodar a aplicação "api.jar"](#Pré-requisitos-e-como-rodar-a-aplicação-"api-.-jar")
  * [Coletor de Estatísticas](#Coletor-de-Estatísticas)
  * [Escopo de Recursos](#escopo-de-recursos)  
  * [Tecnologias](#Tecnologias)
