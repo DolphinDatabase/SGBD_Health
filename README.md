@@ -37,18 +37,27 @@
    - Interface gráfica inicial
  - Cadastro de dados de conexão dos SGBDs (acesso a estastítica por tabelas)
 
-## Pré-requisitos e como rodar a aplicação/testes
+## Pré-requisitos e como rodar a Aplicação
   
-  ### Para acessar o arquivo [executável](https://github.com/DolphinDatabase/SGBD_Health/tree/main/executavel) 
+  ### Download do [executável](https://github.com/DolphinDatabase/SGBD_Health/blob/main/Back%20end/c%C3%B3digoapi/api.jar) 
   
-  Para os dados obtidos na aplicação:
-  - Coletor de estatísticas e todas as métricas [acesse](https://www.postgresql.org/docs/9.6/monitoring-stats.html)  
-  - Consulta relacionada a primeira métrica [acesse](https://www.postgresql.org/docs/9.5/pgstatstatements.html)  
-  - Tutorial para consultar a primeira métrica [acesse](https://www.oreilly.com/library/view/mastering-postgresql-96/9781783555352/eb2d7469-fc3b-4b23-a1a7-9272ac0268f8.xhtml)  
-  - Para passar os parâmetros [acesse](https://devtools.com.br/blog/alterando-a-senha-do-usuario-postgres/)  
-    - url="jdbc:potgresql://localhost:5432/";
-    - usuario="postgres;
-    - senha="postgres"
+  - A conexão do executável está predefinida, conforme abaixo:   
+    * url= jdbc:potgresql://localhost:5432/
+    * usuário= postgres
+    * senha= postgres
+  
+  - Caso o usuário e senha estejam diferente do que está predefinido, é necessário alterar no SGBD: 
+    * Para o usuário [acesse](https://devtools.com.br/blog/alterando-a-senha-do-usuario-postgres/) : ALTER USER nome RENAME to novo_nome 
+    * Para a senha [acesse](https://www.devmedia.com.br/gerenciando-usuarios-e-permissoes-no-postgresql/14301): ALTER USER postgres WITH PASSWORD 'sua_nova_senha'; 
+  
+  - Para exibir a primeira opção de métricas, certifique-se de possuir a extensão pg_stat_statements, para isso [acesse](https://www.oreilly.com/library/view/mastering-postgresql-96/9781783555352/eb2d7469-fc3b-4b23-a1a7-9272ac0268f8.xhtml) 
+  
+  - Por fim, execute a aplicação normalmente.
+  
+  ### Coletor de Estatísticas
+  - Para informações gerais [acesse](https://www.postgresql.org/docs/9.6/monitoring-stats.html)
+  - Para informações relacionadas apenas ao pg_stat_statements [acesse](https://www.postgresql.org/docs/9.5/pgstatstatements.html)  
+  
 
 ## Escopo de Recursos
  - [X] Conexão SGBD
