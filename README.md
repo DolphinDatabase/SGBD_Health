@@ -54,7 +54,7 @@
   
  ## Gráfico de Burndown
   
-  ![](https://github.com/DolphinDatabase/SGBD_Health/blob/main/Images/Backlog%20Sprint%201.jpg)
+  ![]()
   
   
   
