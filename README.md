@@ -105,6 +105,7 @@ Para acessar clique [aqui](https://github.com/DolphinDatabase/Database-Scan/wiki
 </p> 
 <p align="left">
  
+  [![Linkedin Badge](https://img.shields.io/badge/-Neylkson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/neylkson-diniz-a3b9396b/)](https://www.linkedin.com/in/neylkson-diniz-a3b9396b/)
  
 ## 📝 Licença  
 
