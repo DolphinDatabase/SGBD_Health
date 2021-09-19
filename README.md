@@ -48,7 +48,7 @@
   - Para passar os parâmetros [acesse](https://devtools.com.br/blog/alterando-a-senha-do-usuario-postgres/)  
     - url="jdbc:potgresql://localhost:5432/";
     - usuario="postgres;
-    - senha="postgre"
+    - senha="postgres"
 
 ## Escopo de Recursos
  - [X] Conexão SGBD
