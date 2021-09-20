@@ -25,7 +25,7 @@
 <p align="justify">É uma aplicação de monitoramento voltada somente a SGBDs, focada na performance/desempenho. Através da coleta de dados do SGBD (memória, tempo de consultas, espaço em disco, transações, evolução da memória, caches e registros) que influenciam na saúde e manutenção periódica.
 
 
-## Backlog Product
+## Product Backlog 
  
  - Conexão SGBD
  - Coleta de métricas de uma ou mais SGBDs (PostgreSQL) remoto;
