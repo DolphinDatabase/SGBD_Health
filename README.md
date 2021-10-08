@@ -18,21 +18,24 @@
 
 ## Descrição
 
-<p align="justified"> Nessa sprint apresentaremos a conexão aos banco de dados para que o usuário se conecte e possa visualizar as métricas, assim como possa armazenar para ver depois.
+<p align="justified"> Nessa sprint apresentaremos a o armazenamento de métricas passadas a fim de analizar o desempenho ao passar do tempo.
 
 ## User story
+  
  
  | Como | Eu quero | Para que |
  | ------- | ------- | ------- |
- | Diretor da Necto System | Cadastrar um ou mais BDs e armazenar métricas passadas | Seja possível visualizar a performance/desempenho de um ou mais BDs ao mesmo tempo e ter acesso a métricas anteriores de uma busca |
+ | Diretor da Necto System | Armazenar métricas passadas | Seja possível ter acesso as métricas anteriores a fim de analisar o desempenho ao passar do tempo |
   
  
 ## Funcionalidades a serem desenvolvidas
   
- | Banco de Dados API | Cadastro de BD | Histórico de Métricas |
- | ------- | ------- | ------- |
- | Desenvolver o Banco de Dados da API para possibilitar o cadastro de um ou mais BDs a serem monitorados e armazenar métricas consultadas | Responsável por passar os parametros necessários para estabelecer a conexão de um ou mais Bancos de Dados |Realizar o armazenamento e acesso de métricas passadas, para ser possivel consultar posteriormente a partir de uma data especifica ou até mesmo por solicitação das 100 ultimas métricas |  
   
+ | Tratamento de métricas de forma tabular | Salvar consultas em CSV | Tabular métricas | Conexão com servidor através de arquivo externo | Dashboard |
+ | ------- | ------- | ------- | ------- | ------- |
+ | Organizar como a tabela para as métricas será construída | Desenvolver o armazenamento de métricas em arquivos CSV a cada consulta realizada na aplicação, contendo sua data e hora exata |Desenvolver tabelas onde a linha e a coluna se ajustam de acordo com o tamanho de cada métrica e por fim, inserir as métricas nas linhas | Desenvolver função responsável por gerar um arquivo externo, dentro desse arquivo deverá conter os parametros de conexão que serão fornecidos pelo usuário para que a aplicação estabeleça a conexão com o servidor a partir do mesmo | Desenvolver a tela onde as tabelas serão exibidas de maneira legivel e organizadas e a interação com o usuário que dará de acesso as tabelas |  
+  
+
  ## Ilustração das funcionalidades  
   
   ### Cadastro do Banco de dados
@@ -52,10 +55,12 @@
   <p align="left">
   <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/main/Images/4.%20Exibi%C3%A7%C3%A3o%20de%20m%C3%A9tricas%20.png?w=400"height="300" width="400" />   
 
+    
  ## Benefícios
   
   - Não será necessário alterar a senha e o usuário para cadastrar e se conectar a aplicação, além da possibilidade de acessar métricas anteriores.
   
+    
  ## Gráfico de Burndown
   
   > ![Badge](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-yellow)
