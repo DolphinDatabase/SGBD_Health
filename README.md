@@ -89,7 +89,7 @@
 | 16/08 a 22/08 | Project kick-off |
 | 30/08 a 19/09 | [Sprint 1](https://github.com/DolphinDatabase/SGBD_Health/tree/Sprint-1) |
 | 20/09 a 10/10 | [Sprint 2](https://github.com/DolphinDatabase/SGBD_Health/tree/Sprint-2) |
-| 18/10 a 07/11 | Sprint 3 |() |
+| 18/10 a 07/11 | Sprint 3 |(https://github.com/DolphinDatabase/SGBD_Health/tree/Sprint-3) |
 | 08/11 a 28/11 | Sprint 4 |
 | 29/11 a 05/12 | Apresentação Final |
 | 16/12 às 19h | Feira de Soluções |
