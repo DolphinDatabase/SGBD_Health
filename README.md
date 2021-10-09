@@ -38,27 +38,11 @@
 
  ## Ilustração das funcionalidades  
   
-  ### Cadastro do Banco de dados
-  
-  <p align="left">
-  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/main/Images/1.%20Cadastro%20BD%20-%20SPRINT%202.png?w=400"height="300" width="400" /> <p align="right">
-   
-  ### Banco de dados cadastrados
-  <p align="left">
-  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/main/Images/2.%20BD%20cadastrados-1.png?w=400"height="300" width="400" /> 
-    
-  ### Histórico de métricas
-  <p align="left">
-  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/main/Images/3.%20Hist%C3%B3rico%20de%20m%C3%A9tricas.png?w=400"height="300" width="400" /> 
-  
-  ### Exibição de métricas
-  <p align="left">
-  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/main/Images/4.%20Exibi%C3%A7%C3%A3o%20de%20m%C3%A9tricas%20.png?w=400"height="300" width="400" />   
-
+  Para visualizar a execução das tarefas clique [aqui](https://youtu.be/iDamJVP40CU) 
     
  ## Benefícios
   
-  - Não será necessário alterar a senha e o usuário para cadastrar e se conectar a aplicação, além da possibilidade de acessar métricas anteriores.
+  - Analisar o desempenho do Banco de dados através das métricas armazenadas. 
   
     
  ## Gráfico de Burndown
