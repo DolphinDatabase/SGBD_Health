@@ -37,7 +37,7 @@
   
   
  ### 1. Tratamento de métricas de forma tabular 
- - Organizar como a tabela para as métricas será construída.
+ - Será construída uma tabela para organizar as métricas.
   
  ### 2. Salvar consultas em CSV  
  - Desenvolver o armazenamento de métricas em arquivos CSV a cada consulta realizada na aplicação, contendo sua data e hora exata.
