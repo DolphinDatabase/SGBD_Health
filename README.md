@@ -43,7 +43,7 @@
 
  ## Ilustração das funcionalidades   
   
-  - Interface    
+  ### Interface    
   
    <p align="center">
   <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/Sprint-2/Images%20Sprint%202/1633834988086.jpg?w=400"height="500" width="1100" />
