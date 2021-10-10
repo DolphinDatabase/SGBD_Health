@@ -30,8 +30,7 @@
  1. Instalação do **JDK** ou no mínimo **JRE versão 1.8** clique [aqui](https://www.oracle.com/java/technologies/downloads/)
  2. Baixa a aplicação do link [aqui](https://github.com/DolphinDatabase/SGBD_Health/blob/main/sgdbhealth/sgbdhealth.jar)
  3. Siga o passo a passo do tutorial [aqui](https://github.com/DolphinDatabase/SGBD_Health/blob/main/Documenta%C3%A7%C3%A3o/Como%20rodar%20a%20API.pdf) 
-  
-  ### **Para visualização do tutorial clique** [aqui](https://www.youtube.com/watch?v=zVTsaxL_-l4)
+ 4. Para o vídeo do tutorial clique [aqui](https://www.youtube.com/watch?v=zVTsaxL_-l4)
   
   
 ## Product Backlog 
