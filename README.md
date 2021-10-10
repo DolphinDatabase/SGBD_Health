@@ -45,8 +45,8 @@
   
   ### Interface    
   
-   <p align="center">
-  <img src="?w=400"height="500" width="1100" /> 
+   <p align="left">
+  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/Sprint-3/Images%20Sprint%203/wirefrane.jpg?w=400"height="300" width="600" /> 
     
   
  ## Benefícios
