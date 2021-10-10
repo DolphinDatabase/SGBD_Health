@@ -39,7 +39,7 @@
   
   - Inicie o Shell do SO na pasta de aplicação, utilize o seguinte comando para iniciar o programa: **_java -jar sbdhealth.jar_**
   
-  **Para visualização do tutorial clique** [aqui]()
+  ### **Para visualização do tutorial clique** [aqui]()
   
   
 ## Product Backlog 
