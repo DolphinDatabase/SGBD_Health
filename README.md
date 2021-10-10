@@ -27,14 +27,14 @@
   
 ## Pré-requisitos e como rodar a aplicação
   
- - Instalação do JDK ou no mínimo JRE versão 1.8 clique [aqui](https://www.oracle.com/java/technologies/downloads/)
+ - Instalação do **JDK** ou no mínimo **JRE versão 1.8** clique [aqui](https://www.oracle.com/java/technologies/downloads/)
   - Baixa a aplicação do link;  
   - Abra o arquivo parâmetro e preencha os seguintes campos:
-    - connection;  
-    - user;  
-    - pass.
+    - **connection**  
+    - **user**  
+    - **pass**
   - Salve o arquivo após preencher esses campos conforme a figura abaixo:
-  - Inicie o Shell do SO na pasta de aplicação, utilize o seguinte comando para iniciar o programa: java -jar sbdhealth.jar
+  - Inicie o Shell do SO na pasta de aplicação, utilize o seguinte comando para iniciar o programa: **_java -jar sbdhealth.jar_**
   
   
 ## Product Backlog 
