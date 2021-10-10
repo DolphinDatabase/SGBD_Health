@@ -8,8 +8,8 @@
 ## Tabela de Conteúdos
 
  * [Descrição](#descrição)
- * [Backlog Product](#backlog-product)  
  * [Pré-requisitos e como rodar a aplicação](#Pré-requisitos-e-como-rodar-a-aplicação)
+ * [Backlog Product](#backlog-product)  
  * [Coletor de Estatísticas](#Coletor-de-Estatísticas)
  * [Escopo de Recursos](#escopo-de-recursos)  
  * [Tecnologias](#Tecnologias)
@@ -24,7 +24,19 @@
 
 <p align="justify">É uma aplicação de monitoramento voltada somente a SGBDs, focada na performance/desempenho. Através da coleta de dados do SGBD (memória, tempo de consultas, espaço em disco, transações, evolução da memória, caches e registros) que influenciam na saúde e manutenção periódica.
 
-
+  
+## Pré-requisitos e como rodar a aplicação
+  
+ - Instalação do JDK ou no mínimo JRE versão 1.8 [aqui](https://www.oracle.com/java/technologies/downloads/)
+  - Baixa a aplicação do link;  
+  - Abra o arquivo parâmetro e preencha os seguintes campos:
+    - connection;  
+    - user;  
+    - pass.
+  - Salve o arquivo após preencher esses campos conforme a figura abaixo:
+  - Inicie o Shell do SO na pasta de aplicação, utilize o seguinte comando para iniciar o programa: java -jar sbdhealth.jar
+  
+  
 ## Product Backlog 
  
  - Conexão SGBD
@@ -43,18 +55,7 @@
    - Interface gráfica inicial
  - Cadastro de dados de conexão dos SGBDs (acesso a estastítica por tabelas)
 
-## Pré-requisitos e como rodar a aplicação
   
- - Instalação do JDK ou no mínimo JRE versão 1.8 [aqui](https://www.oracle.com/java/technologies/downloads/)
-  - Baixa a aplicação do link;  
-  - Abra o arquivo parâmetro e preencha os seguintes campos:
-    - connection;  
-    - user;  
-    - pass.
-  - Salve o arquivo após preencher esses campos conforme a figura abaixo:
-  - Inicie o Shell do SO na pasta de aplicação, utilize o seguinte comando para iniciar o programa: java -jar sbdhealth.jar
-  
-
 ## Escopo de Recursos
  - ✔️ Conexão SGBD
  - ✔️ Coleta e consulta de métricas
