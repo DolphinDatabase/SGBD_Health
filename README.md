@@ -30,15 +30,15 @@
  
  | Como | Eu quero | Para que |
  | ------- | ------- | ------- |
- | Diretor da Necto System | Armazenar métricas passadas | Seja possível ter acesso as métricas anteriores a fim de analisar o desempenho ao passar do tempo |
+ | Diretor da Necto System | As funções geradas através das métricas coletadas  | Seja possível visualizar de maneira geral o crescimento e status do SGBD |
   
  
 ## Funcionalidades a serem desenvolvidas  
   
   
- | Tratamento de métricas de forma tabular | Salvar consultas em CSV | Tabular métricas | Conexão com servidor através de arquivo externo | Dashboard |
- | ------- | ------- | ------- | ------- | ------- |
- | Organizar como a tabela para as métricas será construída | Desenvolver o armazenamento de métricas em arquivos CSV a cada consulta realizada na aplicação, contendo sua data e hora exata |Desenvolver tabelas onde a linha e a coluna se ajustam de acordo com o tamanho de cada métrica e por fim, inserir as métricas nas linhas | Desenvolver função responsável por gerar um arquivo externo, dentro desse arquivo deverá conter os parametros de conexão que serão fornecidos pelo usuário para que a aplicação estabeleça a conexão com o servidor a partir do mesmo | Desenvolver a tela onde as tabelas serão exibidas de maneira legivel e organizadas e a interação com o usuário que dará de acesso as tabelas |  
+ | Desenvolver as funções das métricas | Desenvolver a função geral das funções | Coleta periódica |
+ | ------- | ------- | ------- |
+ | Gerar a função de cálculo do crescimento do SGBD | Forma em que as funções serão exibidas | Desenvolver a opção de configurar um período para que as métricas sejam coletadas automaticamente |
   
 
  ## Ilustração das funcionalidades   
