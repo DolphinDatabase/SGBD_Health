@@ -27,10 +27,15 @@
   
 ## Pré-requisitos e como rodar a aplicação
   
- 1. Instalação do **JDK** ou no mínimo **JRE versão 1.8** clique [aqui](https://www.oracle.com/java/technologies/downloads/)
- 2. Download da aplicação no link [aqui](https://github.com/DolphinDatabase/SGBD_Health/blob/main/sgdbhealth/sgbdhealth.jar)
- 3. Siga o passo a passo do tutorial [aqui](https://github.com/DolphinDatabase/SGBD_Health/blob/main/Documenta%C3%A7%C3%A3o/Como%20rodar%20a%20API.pdf) 
- 4. Para o vídeo do tutorial clique [aqui](https://www.youtube.com/watch?v=zVTsaxL_-l4)
+ #### **Pré-requisitos** 
+  
+  1. Instalação do **JDK** ou no mínimo **JRE versão 1.8** acesse [aqui](https://www.oracle.com/java/technologies/downloads/)
+  2. Download da aplicação acesse [aqui](https://github.com/DolphinDatabase/SGBD_Health/blob/main/sgdbhealth/sgbdhealth.jar)
+ 
+ #### **Como executar a aplicação** 
+  
+  1. Siga o passo a passo do tutorial [aqui](https://github.com/DolphinDatabase/SGBD_Health/blob/main/Documenta%C3%A7%C3%A3o/Como%20rodar%20a%20API.pdf) 
+  2. Para o vídeo do tutorial clique [aqui](https://www.youtube.com/watch?v=zVTsaxL_-l4)
   
   
 ## Product Backlog 
