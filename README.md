@@ -27,7 +27,7 @@
   
 ## Pré-requisitos e como rodar a aplicação
   
- - Instalação do JDK ou no mínimo JRE versão 1.8 [aqui](https://www.oracle.com/java/technologies/downloads/)
+ - Instalação do JDK ou no mínimo JRE versão 1.8 clique [aqui](https://www.oracle.com/java/technologies/downloads/)
   - Baixa a aplicação do link;  
   - Abra o arquivo parâmetro e preencha os seguintes campos:
     - connection;  
