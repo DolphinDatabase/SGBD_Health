@@ -30,7 +30,7 @@
  #### **Pré-requisitos** 
   
   1. Instalação do **JDK** ou no mínimo **JRE versão 1.8** acesse [aqui](https://www.oracle.com/java/technologies/downloads/)
-  2. Download da aplicação acesse [aqui](https://github.com/DolphinDatabase/SGBD_Health/blob/main/sgdbhealth/sgbdhealth.jar)
+  2. Download da aplicação acesse [aqui](https://drive.google.com/file/d/158n79D5iXs2Pg05QBAuPUsiSbn6n-htt/view?usp=sharing)
  
  #### **Como executar a aplicação** 
   
