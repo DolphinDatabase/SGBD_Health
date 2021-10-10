@@ -4,7 +4,7 @@
 </p>
 <h1 align="center"> Story Card  </h1>  
 
-
+![Badge](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-yellow)
 
 
 ## Tabela de Conteúdos  
@@ -51,12 +51,12 @@
   
  ## Benefícios
   
-  - Analisar o desempenho e crescimento do SGBD através das métricas armazenadas. 
+  - Com o overview das funções é possível visualizar o crescimento dp SGBD, além de ser ajustável o período em que as métricas serão coletadas. 
   
     
  ## Gráfico de Burndown
   
-
+![Badge](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-yellow)
 
   
   
