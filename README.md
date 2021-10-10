@@ -51,7 +51,7 @@
   
  ## Benefícios
   
-  - Com o overview das funções é possível visualizar o crescimento dp SGBD, além de ser ajustável o período em que as métricas serão coletadas. 
+   Com o overview das funções é possível visualizar o crescimento dp SGBD, além de ser ajustável o período em que as métricas serão coletadas. 
   
     
  ## Gráfico de Burndown
