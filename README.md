@@ -10,7 +10,7 @@
 
  * [Descrição](#descrição)
  * [User story](#user-story)  
- * [Funcionalidades a serem desenvolvidas](#funcionalidades-a-serem-desenvolvidas)
+ * [Funcionalidades desenvolvidas](#funcionalidades-desenvolvidas)
  * [Ilustração das funcionalidades](#ilustração-das-funcionalidades)
  * [Benefícios](#benefícios)
  * [Gráfico de Burndown](#gráfico-de-burndown)  
@@ -29,7 +29,7 @@
  | Diretor da Necto System | Armazenar métricas passadas | Seja possível ter acesso as métricas anteriores a fim de analisar o desempenho ao passar do tempo |
   
  
-## Funcionalidades a serem desenvolvidas
+## Funcionalidades desenvolvidas
   
   
  | Tratamento de métricas de forma tabular | Salvar consultas em CSV | Tabular métricas | Conexão com servidor através de arquivo externo | Dashboard |
@@ -43,7 +43,7 @@
     
  ## Benefícios
   
-  - Analisar o desempenho do Banco de dados através das métricas armazenadas. 
+  - Analisar o desempenhoe crescimento do SGBD através das métricas armazenadas. 
   
     
  ## Gráfico de Burndown
