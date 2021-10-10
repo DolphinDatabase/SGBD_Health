@@ -30,7 +30,11 @@
  - Conexão SGBD
  - Coleta de métricas de uma ou mais SGBDs (PostgreSQL) remoto;
  - Tratamento das métricas (histórico, registro, relatórios, disponibilidade, alertas e valores atingidos durante a operação)
-   - Coleta periódico de métricas 
+   - Tratamento de métricas de forma tabular  
+   - Salvar consultas em CSV
+   - Tabular métricas  
+   - Conexão com servidor através de arquivo externo
+   - Coleta periódico de métricas
    - Histórico de métricas
    - Relatórios de métricas
    - Alertas de espaço em disco do SGBD
@@ -41,30 +45,24 @@
 
 ## Pré-requisitos e como rodar a aplicação
   
-  ### Download do [executável](https://github.com/DolphinDatabase/SGBD_Health/tree/main/executavel) 
-  
-  - A conexão do executável está predefinida, conforme abaixo:   
-    * url= jdbc:potgresql://localhost:5432/
-    * usuário= postgres
-    * senha= postgres
-  
-  - Caso o usuário e senha estejam diferente do que está predefinido, é necessário alterar no SGBD: 
-    * Para o usuário [acesse](https://devtools.com.br/blog/alterando-a-senha-do-usuario-postgres/) : ALTER USER nome RENAME to novo_nome 
-    * Para a senha [acesse](https://www.devmedia.com.br/gerenciando-usuarios-e-permissoes-no-postgresql/14301): ALTER USER postgres WITH PASSWORD 'sua_nova_senha'; 
-  
-  - Para exibir a primeira opção de métricas, certifique-se de possuir a extensão pg_stat_statements, para isso [acesse](https://www.oreilly.com/library/view/mastering-postgresql-96/9781783555352/eb2d7469-fc3b-4b23-a1a7-9272ac0268f8.xhtml) 
-  
-  - Por fim, execute a aplicação normalmente.
-  
-  ### Coletor de Estatísticas
-  - Para informações gerais [acesse](https://www.postgresql.org/docs/9.6/monitoring-stats.html)
-  - Para informações relacionadas apenas ao pg_stat_statements [acesse](https://www.postgresql.org/docs/9.5/pgstatstatements.html)  
+ - Instalação do JDK ou no mínimo JRE versão 1.8 [aqui](https://www.oracle.com/java/technologies/downloads/)
+  - Baixa a aplicação do link;  
+  - Abra o arquivo parâmetro e preencha os seguintes campos:
+    - connection;  
+    - user;  
+    - pass.
+  - Salve o arquivo após preencher esses campos conforme a figura abaixo:
+  - Inicie o Shell do SO na pasta de aplicação, utilize o seguinte comando para iniciar o programa: java -jar sbdhealth.jar
   
 
 ## Escopo de Recursos
  - ✔️ Conexão SGBD
  - ✔️ Coleta e consulta de métricas
  - ✔️ Interface inicial
+ - ✔️ Tratamento de métricas de forma tabular  
+ - ✔️ Salvar consultas em CSV
+ - ✔️ Tabular métricas  
+ - ✔️ Conexão com servidor através de arquivo externo
 
  
 ## Tecnologias
