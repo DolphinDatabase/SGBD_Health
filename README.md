@@ -57,7 +57,7 @@
   ### Interface    
   
    <p align="center">
-  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/Sprint-2/Images%20Sprint%202/1633834988086.jpg?w=400"height="500" width="1100" />
+  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/Sprint-2/Images%20Sprint%202/Wireframe.png?w=400"height="700" width="400" />
   
      
  ## Benefícios
