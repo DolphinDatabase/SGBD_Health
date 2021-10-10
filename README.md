@@ -43,6 +43,8 @@
   ### Exibição de métricas 
   <p align="left">
   <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/main/Images/wireframe%201.jpg?w=400"height="300" width="400" /> 
+    
+  **Para acessar o vídeo de demonstração da aplicação em uso clique** [aqui](https://youtu.be/8wiEfhklJik)  
 
  ## Benefícios
   
