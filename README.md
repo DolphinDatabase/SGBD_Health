@@ -22,7 +22,7 @@
 ## Descrição  
 
 
-<p align="justified"> Nessa sprint apresentaremos a o armazenamento de métricas passadas a fim de analizar o desempenho ao passar do tempo.
+<p align="justified"> Nessa sprint serão apresentadas as funções geradas através das métricas coletadas para que seja possível visualizar de uma maneira geral o crescimento e o status do SGBD. 
 
   
 ## User story  
