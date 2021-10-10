@@ -27,17 +27,9 @@
   
 ## Pré-requisitos e como rodar a aplicação
   
- - Instalação do **JDK** ou no mínimo **JRE versão 1.8** clique [aqui](https://www.oracle.com/java/technologies/downloads/)
-  - Baixa a aplicação do link;  
-  - Abra o arquivo parâmetro e preencha os seguintes campos:
-    - **connection**  
-    - **user**  
-    - **pass**
-  - Salve o arquivo após preencher esses campos conforme a figura abaixo:  
-  
-  ![](https://github.com/DolphinDatabase/SGBD_Health/blob/main/Images/aplica%C3%A7%C3%A3o.jpg)  
-  
-  - Inicie o Shell do SO na pasta de aplicação, utilize o seguinte comando para iniciar o programa: **_java -jar sbdhealth.jar_**
+ 1. Instalação do **JDK** ou no mínimo **JRE versão 1.8** clique [aqui](https://www.oracle.com/java/technologies/downloads/)
+ 2. Baixa a aplicação do link [aqui](https://github.com/DolphinDatabase/SGBD_Health/blob/main/sgdbhealth/sgbdhealth.jar)
+ 3. Siga o passo a passo do tutorial [aqui](https://github.com/DolphinDatabase/SGBD_Health/blob/main/Documenta%C3%A7%C3%A3o/Como%20rodar%20a%20API.pdf) 
   
   ### **Para visualização do tutorial clique** [aqui]()
   
