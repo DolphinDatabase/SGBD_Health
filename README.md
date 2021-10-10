@@ -36,11 +36,16 @@
 ## Funcionalidades a serem desenvolvidas  
   
   
- | Desenvolver as funções das métricas | Desenvolver a função geral das funções | Coleta periódica |
- | ------- | ------- | ------- |
- | Gerar a função de cálculo do crescimento do SGBD | Forma em que as funções serão exibidas | Desenvolver a opção de configurar um período para que as métricas sejam coletadas automaticamente |
+ ### 1. Desenvolver as funções das métricas 
+ - Gerar a função de cálculo do crescimento do SGBD
   
+ ### 2. Desenvolver a função geral das funções
+ - Estrutura na qual as funções serão exibidas
+  
+ ### 3. Coleta periódica
+ - Desenvolver a opção de configurar um período para que as métricas sejam coletadas automaticamente 
 
+  
  ## Ilustração das funcionalidades   
   
   ### Interface    
