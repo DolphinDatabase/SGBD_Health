@@ -60,7 +60,7 @@
  ## Gráfico de Burndown
   
   <p align="center">
-  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/Sprint-2/Images%20Sprint%202/BurnDown.jpg?w=400"height="500" width="1100" />
+  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/Sprint-2/Images%20Sprint%202/BurnDown.png?w=400"height="400" width="1300" />
 
   
   
