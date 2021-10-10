@@ -34,7 +34,9 @@
     - **user**  
     - **pass**
   - Salve o arquivo após preencher esses campos conforme a figura abaixo:  
-  ![](https://github.com/DolphinDatabase/SGBD_Health/blob/main/Images/aplica%C3%A7%C3%A3o.jpg)
+  
+  ![](https://github.com/DolphinDatabase/SGBD_Health/blob/main/Images/aplica%C3%A7%C3%A3o.jpg)  
+  
   - Inicie o Shell do SO na pasta de aplicação, utilize o seguinte comando para iniciar o programa: **_java -jar sbdhealth.jar_**
   
   
