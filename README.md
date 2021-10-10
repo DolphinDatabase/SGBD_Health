@@ -22,7 +22,7 @@
 ## Descrição  
 
 
-<p align="justified"> Nessa sprint apresentaremos a o armazenamento de métricas passadas a fim de analizar o desempenho ao passar do tempo.
+<p align="justified"> Nessa sprint apresentaremos o armazenamento de métricas passadas a fim de analizar o desempenho ao passar do tempo.
 
   
 ## User story  
@@ -37,19 +37,19 @@
   
   
  ### 1. Tratamento de métricas de forma tabular 
- - Organizar como a tabela para as métricas será construída  
+ - Organizar como a tabela para as métricas será construída.
   
  ### 2. Salvar consultas em CSV  
- - Desenvolver o armazenamento de métricas em arquivos CSV a cada consulta realizada na aplicação, contendo sua data e hora exata 
+ - Desenvolver o armazenamento de métricas em arquivos CSV a cada consulta realizada na aplicação, contendo sua data e hora exata.
   
  ### 3. Tabular métricas  
- - Desenvolver tabelas onde a linha e a coluna se ajustam de acordo com o tamanho de cada métrica e por fim, inserir as métricas nas linhas   
+ - Desenvolver tabelas onde a linha e a coluna se ajustam de acordo com o tamanho de cada métrica e por fim, inserir as métricas nas linhas.   
   
  ### 4. Conexão com servidor através de arquivo externo  
- - Desenvolver função responsável por gerar um arquivo externo, dentro desse arquivo deverá conter os parametros de conexão que serão fornecidos pelo usuário para que a aplicação estabeleça a conexão com o servidor a partir do mesmo  
+ - Desenvolver função responsável por gerar um arquivo externo, dentro desse arquivo deverá conter os parametros de conexão que serão fornecidos pelo usuário para que a aplicação estabeleça a conexão com o servidor a partir do mesmo.  
   
  ### 5. Dashboard  
- - Desenvolver a tela onde as tabelas serão exibidas de maneira legivel e organizadas e a interação com o usuário que dará de acesso as tabelas
+ - Desenvolver a tela onde as tabelas serão exibidas de maneira legivel e organizadas e a interação com o usuário que dará de acesso as tabelas.
  
 
  ## Ilustração das funcionalidades   
