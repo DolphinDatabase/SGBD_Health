@@ -48,7 +48,9 @@
     
  ## Gráfico de Burndown
   
-  > ![Badge](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-yellow)
+  <p align="center">
+  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/Sprint-2/Images%20Sprint%202/BurnDown.jpg?w=400"height="500" width="1100" />
+
   
   
 
