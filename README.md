@@ -39,7 +39,7 @@
  ### 1. Desenvolver as funções das métricas 
  - Gerar a função de cálculo do crescimento do SGBD
   
- ### 2. Desenvolver a função geral das funções
+ ### 2. Desenvolver a visão geral das funções
  - Estrutura na qual as funções serão exibidas
   
  ### 3. Coleta periódica
