@@ -41,20 +41,20 @@
 ## Product Backlog 
  
  - Conexão SGBD;
- - Coleta de métricas de uma ou mais SGBDs (PostgreSQL) remoto;
+ - Coleta de métricas de um ou mais SGBDs (PostgreSQL) remoto;
  - Tratamento das métricas (histórico, registro, relatórios, disponibilidade, alertas e valores atingidos durante a operação):
    - Tratamento de métricas de forma tabular;  
    - Salvar consultas em CSV;
    - Tabular métricas;
    - Conexão com servidor através de arquivo externo;
-   - Coleta periódico de métricas;
+   - Coleta periódica de métricas;
    - Histórico de métricas;
    - Relatórios de métricas;
    - Alertas de espaço em disco do SGBD;
    - Funcionamento do BD (tempo e quantidade de queries e uso de índices).
  - Plotagem de gráficos através de um dashboard/interface:
    - Interface gráfica inicial.
- - Cadastro de dados de conexão dos SGBDs (acesso a estastítica por tabelas).
+ - Cadastro de dados de conexão dos SGBDs (acesso à estastítica por tabelas).
 
   
 ## Escopo de Recursos
