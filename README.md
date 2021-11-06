@@ -24,31 +24,31 @@
  
  | Como | Eu quero | Para que |
  | ------- | ------- | ------- |
- | Diretor da Necto System | Coletar métricas do SGBD sobre o funcionamento do banco de dados | Seja possível visualizar a performance/desempenho influenciando na manutençao periódica, saúde, funcionamento e disponibilidade |
+ | Diretor da Necto System. | Coletar métricas do SGBD sobre o funcionamento do banco de dados. | Seja possível visualizar a performance/desempenho influenciando na manutençao periódica, saúde, funcionamento e disponibilidade. |
   
  
 ## Funcionalidades desenvolvidas
   
  | Conexão SGBD | Consulta/Coleta de métricas | Interface inicial |
  | ------- | ------- | ------- |
- | Através do JDBC foi gerada a conexão da aplicação Java com o SGBD, utilizando o driver respectivo para cada gerenciador, possibilidando assim, realizar as coletas das métricas | Utilizar o coletor de estatísticas do PostgreSQL que é um subsistema que suporta coleta e relato de informações sobre o servidor, sobre exatamente o que está acontecendo no sistema no momento. Para posteriormente desenvolver a aplicação que realiza consultas sobre o que o coletor obteve | A interface inicial é composta por 1 frame que permite a seleção de métricas a serem exibidas |  
+ | Através do JDBC foi gerada a conexão da aplicação Java com o SGBD, utilizando o driver respectivo para cada gerenciador, possibilidando assim, realizar as coletas das métricas. | Utilizar o coletor de estatísticas do PostgreSQL que é um subsistema que suporta coleta e relato de informações sobre o servidor, sobre exatamente o que está acontecendo no sistema no momento. Para posteriormente desenvolver a aplicação que realiza consultas sobre o que o coletor obteve. | A interface inicial é composta por 1 frame que permite a seleção de métricas a serem exibidas. |  
   
  ## Ilustração das funcionalidades  
   
   ### Seleção de métricas
   
   <p align="left">
-  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/main/Images/sele%C3%A7%C3%A3o%20de%20m%C3%A9tricas.jpg?w=400"height="300" width="400" /> <p align="right">
+  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/main/Images/sele%C3%A7%C3%A3o%20de%20m%C3%A9tricas.jpg?w=400"height="500" width="650" /> <p align="right">
    
   ### Exibição de métricas 
   <p align="left">
-  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/main/Images/wireframe%201.jpg?w=400"height="300" width="400" /> 
+  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/main/Images/wireframe%201.jpg?w=400"height="500" width="650" /> 
     
-  **Para acessar o vídeo de demonstração da aplicação em uso clique** [aqui](https://youtu.be/8wiEfhklJik)  
+  **Para acessar o vídeo de demonstração da aplicação em uso, clique** [aqui](https://youtu.be/8wiEfhklJik).  
 
  ## Benefícios
   
-  - O usuário consegue visualizar as métricas  
+  - O usuário consegue visualizar as métricas.  
   
 
   
