@@ -30,7 +30,7 @@
  
  | Como | Eu quero | Para que |
  | ------- | ------- | ------- |
- | Diretor da Necto System | Armazenar métricas passadas | Seja possível ter acesso as métricas anteriores a fim de analisar o desempenho ao passar do tempo |
+ | Diretor da Necto System. | Armazenar métricas passadas. | Seja possível ter acesso as métricas anteriores a fim de analisar o desempenho ao passar do tempo. |
   
  
 ## Funcionalidades desenvolvidas  
@@ -57,7 +57,7 @@
   ### Interface    
   
    <p align="center">
-  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/Sprint-2/Images%20Sprint%202/Wireframe.png?w=400"height="700" width="400" />
+  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/Sprint-2/Images%20Sprint%202/Wireframe.png?w=400"height="700" width="500" />
   
      
  ## Benefícios
