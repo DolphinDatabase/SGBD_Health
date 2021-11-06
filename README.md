@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/main/Images/Card%20Sprint%201%20(2).png?w=400"height="300" width="600" />
+  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/main/Images/Card%20Sprint%201%20(2).png?w=400"height="400" width="700" />
 </p>
 <h1 align="center"> Story Card  </h1>  
 
