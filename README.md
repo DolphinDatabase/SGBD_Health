@@ -30,20 +30,20 @@
  
  | Como | Eu quero | Para que |
  | ------- | ------- | ------- |
- | Diretor da Necto System | As funções geradas através das métricas coletadas  | Seja possível visualizar de maneira geral o crescimento e status do SGBD |
+ | Diretor da Necto System. | As funções geradas através das métricas coletadas.  | Seja possível visualizar de maneira geral o crescimento e status do SGBD. |
   
  
 ## Funcionalidades a serem desenvolvidas  
   
   
  ### 1. Desenvolver as funções das métricas 
- - Gerar a função de cálculo do crescimento do SGBD
+ - Gerar a função de cálculo do crescimento do SGBD.
   
  ### 2. Desenvolver a visão geral das funções
- - Estrutura na qual as funções serão exibidas
+ - Estrutura na qual as funções serão exibidas.
   
  ### 3. Coleta periódica
- - Desenvolver a opção de configurar um período para que as métricas sejam coletadas automaticamente 
+ - Desenvolver a opção de configurar um período para que as métricas sejam coletadas automaticamente. 
 
   
  ## Ilustração das funcionalidades   
@@ -51,7 +51,7 @@
   ### Interface    
   
    <p align="left">
-  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/Sprint-3/Images%20Sprint%203/wirefrane.jpg?w=200"height="200" width="400" /> 
+  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/Sprint-3/Images%20Sprint%203/wirefrane.jpg?w=200"height="150" width="350" /> 
     
   
  ## Benefícios
