@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/Sprint-3/Images%20Sprint%203/Story%20card.jpg?w=400"height="400" width="700" />
+  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/Sprint-3/Images%20Sprint%203/Cards%20Sprint%203.png?w=400"height="400" width="700" />
 
 </p>
 <h1 align="center"> Story Card  </h1>  
@@ -30,7 +30,7 @@
  
  | Como | Eu quero | Para que |
  | ------- | ------- | ------- |
- | Diretor da Necto Systems | Coletar e armazenar métricas em um período configurável | Seja possível analisar de maneira geral o crescimento e status do SGBD. |
+ | Diretor da Necto Systems | coletar e armazenar métricas em um período configurável | seja possível analisar de maneira geral o crescimento e status do SGBD. |
   
  
 ## Funcionalidades desenvolvidas  
