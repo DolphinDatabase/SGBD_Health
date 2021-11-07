@@ -84,7 +84,7 @@
  - Para organização das tarefas: [Google Sheets](https://docs.google.com/spreadsheets/d/1R_NrOvCbuW5_c-xeFrFmDRHBfWwYttFWlmTgW5oBQmI/edit#gid=0).  
  - Para gerenciar o banco de dados: [PostgreSQL](https://www.postgresql.org).
  - Para desenvolvimento do código: [Eclipse](https://www.eclipse.org/downloads/).
- - DB Browser (SQlite): [SQlite](https://sqlitebrowser.org/dl/)
+ - DB Browser (SQlite): [SQlite](https://sqlitebrowser.org/dl/).
  
  
 ## Ilustração
