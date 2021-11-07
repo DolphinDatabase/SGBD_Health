@@ -22,7 +22,7 @@
 ## Descrição  
 
 
-<p align="justified"> Nessa sprint serão apresentadas as funções geradas através das métricas coletadas para que seja possível visualizar de uma maneira geral o crescimento e o status do SGBD. 
+<p align="justified"> Nessa sprint através de um arquivo de texto é possível, definir "queries lentas", ativar/desativar a interface e o armazenamento em CSV pois a API possui um Banco Simples que armazena automaticamente as estatisticas. 
 
   
 ## User story  
@@ -30,7 +30,7 @@
  
  | Como | Eu quero | Para que |
  | ------- | ------- | ------- |
- | Diretor da Necto System. | As funções geradas através das métricas coletadas.  | Seja possível visualizar de maneira geral o crescimento e status do SGBD. |
+ | Diretor da Necto Systems | Coletar e armazenar métricas em um período configurável | Seja possível analisar de maneira geral o crescimento e status do SGBD. |
   
  
 ## Funcionalidades desenvolvidas  
@@ -75,7 +75,8 @@
   
  ## Benefícios
   
-   Com o overview das funções é possível visualizar o crescimento dp SGBD, além de ser ajustável o período em que as métricas serão coletadas. 
+   Com o arquivo de texto é possível configurar a API (querys lentas, ativar/desativar a interface e o CSV) conforme a necessidade do usuário sem precisar da interface, 
+   o que torna possível o uso de agendadores de tarefas, responsáveis por rodar a aplicação que coletará estatisticas sempre que acionada.
   
     
  ## Gráfico de Burndown
