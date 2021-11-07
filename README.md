@@ -30,7 +30,7 @@
  
  | Como | Eu quero | Para que |
  | ------- | ------- | ------- |
- | Diretor da Necto System. | .  | . |
+ | Diretor da Necto System | que seja gerado relatórios gerais sobre cada servidor  | seja possível monitorar o status do SGBD. |
   
  
 ## Funcionalidades a serem desenvolvidas  
@@ -64,7 +64,7 @@
        
  ## Benefícios
   
-   
+   Com o relatório é possível obter estatisticas gerais de cada serividor, além de possuir um TOP 5 Queries Lentas. Assim é possível gerar um relatório sobre todos os servidores que é responsável por indicar entre todos os servidores utilizados qual deles precisa de manutenção.
   
     
  ## Gráfico de Burndown
