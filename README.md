@@ -65,6 +65,7 @@
  - ✔️ Salvar consultas em CSV.
  - ✔️ Tabular métricas.  
  - ✔️ Conexão com servidor através de arquivo externo.
+ - ✔️ 
 
  
 ## Tecnologias
