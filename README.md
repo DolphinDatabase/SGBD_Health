@@ -71,7 +71,6 @@
  - ✔️ Configuração de exibição
  - ✔️ Rotina de coleta e armazenamento de métricas
  - ✔️ Conexão banco simples
- - ✔️ Armazenar parâmetro de conexão
  - ✔️ Armazenar estatísticas
 
  
