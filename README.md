@@ -60,7 +60,11 @@
    <p align="left">
   <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/Sprint-4/Images%20Sprint%204/Relat%C3%B3rio.jpg?w=200"height="400" width="600" /> 
    
-
+  ### Relatório Geral de todos Servidores     
+  
+   <p align="left">
+  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/Sprint-4/Images%20Sprint%204/Relat%C3%B3rio.jpg?w=200"height="400" width="600" /> 
+     
        
  ## Benefícios
   
