@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="?w=400"height="400" width="700" />
+  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/Sprint-4/Images%20Sprint%204/Cards%20Sprint%204.png?w=400"height="400" width="700" />
 
 </p>
 <h1 align="center"> Story Card  </h1>  
@@ -55,7 +55,7 @@
   
  ## Ilustração das funcionalidades   
   
-  ### Modelagem    
+  ### Relatório Geral de um Servidor     
   
    <p align="left">
   <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/Sprint-4/Images%20Sprint%204/Relat%C3%B3rio.jpg?w=200"height="400" width="600" /> 
@@ -64,7 +64,7 @@
        
  ## Benefícios
   
-   Com o relatório é possível obter estatisticas gerais de cada serividor, além de possuir um TOP 5 Queries Lentas. Assim é possível gerar um relatório sobre todos os servidores que é responsável por indicar entre todos os servidores utilizados qual deles precisa de manutenção.
+   Com o relatório é possível obter estatisticas gerais de cada serividor, além de possuir um TOP 5 Queries Lentas. Assim é possível gerar um relatório sobre todos os servidores    que é responsável por indicar entre todos os servidores utilizados qual deles precisa de manutenção.
   
     
  ## Gráfico de Burndown
