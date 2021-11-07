@@ -30,7 +30,7 @@
  
  | Como | Eu quero | Para que |
  | ------- | ------- | ------- |
- | Diretor da Necto System. | As funções geradas através das métricas coletadas.  | Seja possível visualizar de maneira geral o crescimento e status do SGBD. |
+ | Diretor da Necto System. | .  | . |
   
  
 ## Funcionalidades a serem desenvolvidas  
@@ -58,7 +58,7 @@
   ### Modelagem    
   
    <p align="left">
-  <img src="?w=200"height="400" width="600" /> 
+  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/Sprint-4/Images%20Sprint%204/Relat%C3%B3rio.jpg?w=200"height="400" width="600" /> 
    
 
        
