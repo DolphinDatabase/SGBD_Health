@@ -51,6 +51,9 @@
  ### 5. Desenvolver alertas por parâmetro
  - Alertar o usuário caso exista algum erro no servidor e deverá ser possível ajustar o parâmetro via "txt" que irá acionar o alarme.
   
+ ### 6. Armazenar parâmetro de conexão
+ - Armazenar os parâmetros de conexão que deveram ser informados através do SHELL.
+  
 
   
  ## Ilustração das funcionalidades   
