@@ -12,7 +12,7 @@
 
  * [Descrição](#descrição)
  * [User story](#user-story)  
- * [Funcionalidades a serem desenvolvidas](#funcionalidades-a-serem-desenvolvidas)
+ * [Funcionalidades desenvolvidas](#funcionalidades-desenvolvidas)
  * [Ilustração das funcionalidades](#ilustração-das-funcionalidades)
  * [Benefícios](#benefícios)
  * [Gráfico de Burndown](#gráfico-de-burndown)  
@@ -33,17 +33,32 @@
  | Diretor da Necto System. | As funções geradas através das métricas coletadas.  | Seja possível visualizar de maneira geral o crescimento e status do SGBD. |
   
  
-## Funcionalidades a serem desenvolvidas  
+## Funcionalidades desenvolvidas  
   
   
- ### 1. Desenvolver as funções das métricas 
- - Gerar a função de cálculo do crescimento do SGBD.
+ ### 1. Banco Simples (SQlite3) 
+ - Modelar e desenvolver um banco simples no SQlite3 que será responsável por armazenar as estatíticas coletadas e armazenar os parâmetros de conexão com o servidor.
   
- ### 2. Desenvolver a visão geral das funções
- - Estrutura na qual as funções serão exibidas.
+ ### 2. Queries lentas
+ - As queries lentas devem ser parametrizadas através do "arquivo txt parâmetro".
   
- ### 3. Coleta periódica
- - Desenvolver a opção de configurar um período para que as métricas sejam coletadas automaticamente. 
+ ### 3. Métricas de armazenamento de índices
+ - Coletar e armazenar as métricas que indicam o espaço ocupado pelos índices.
+  
+ ### 4. Configuração de exibição
+ - Deverá ser opcional exibir informações no SHELL,  através do "arquivo txt parâmetro".
+  
+ ### 5. Rotina de coleta e armazenamento de métricas
+ - A rotina de coleta e armazenamento de métricas deverá ser feita pelo SO Windows/Linux. Essa funcionalidade depende da interface desativada, quando desativada será possível agendar tanto pelo Windows quanto pelo Linux.
+  
+ ### 6. Conexão banco simples
+ - Se conectar ao banco simples (SQlite3) da aplicação pelo arquivo de texto.
+  
+ ### 7. Armazenar parâmetro de conexão
+ - Armazenar os parâmetros de conexão que deveram ser informados através do SHELL.
+  
+ ### 8. Armazenar estatísticas
+ - Armazenar no banco sqlite3 conforme a modelagem as estatísticas coletadas de todos os servidores.
 
   
  ## Ilustração das funcionalidades   
