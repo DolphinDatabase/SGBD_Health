@@ -4,7 +4,7 @@
 </p>
 <h1 align="center"> Story Card  </h1>  
 
-![Badge](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-yellow)
+![Badge](https://img.shields.io/badge/STATUS-CONCLU%C3%8DDO-green)
 
 
 ## Tabela de Conteúdos  
