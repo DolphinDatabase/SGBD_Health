@@ -22,7 +22,7 @@
 ## Descrição  
 
 
-<p align="justified"> Nessa sprint através de um arquivo de texto é possível, definir "queries lentas", ativar/desativar a interface e o armazenamento em CSV pois a API possui um Banco Simples que armazena automaticamente as estatisticas. 
+<p align="justified"> Nessa sprint através de um arquivo de texto é possível, definir "queries lentas", ativar/desativar a interface. Além de armazenar as estatisticas em CSV também há um Banco Simples onde são armazenadas.
 
   
 ## User story  
