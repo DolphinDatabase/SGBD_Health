@@ -63,10 +63,10 @@
   
  ## Ilustração das funcionalidades   
   
-  ### Interface    
+  ### Modelagem    
   
    <p align="left">
-  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/Sprint-3/Images%20Sprint%203/wirefrane.jpg?w=200"height="150" width="350" /> 
+  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/Sprint-3/Images%20Sprint%203/Modelagem.jpg?w=200"height="400" width="600" /> 
     
   
  ## Benefícios
