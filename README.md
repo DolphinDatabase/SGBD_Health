@@ -22,7 +22,7 @@
 ## Descrição  
 
 
-<p align="justified"> Nessa sprint através de um arquivo de texto é possível, definir "queries lentas", ativar/desativar a interface. Além de armazenar as estatisticas em CSV também há um Banco Simples onde são armazenadas.
+<p align="justified"> Nessa sprint através de um arquivo de texto é possível, definir "queries lentas" e ativar/desativar a interface. Além de armazenar as estatisticas em CSV também há um Banco Simples onde são armazenadas.
 
   
 ## User story  
@@ -75,8 +75,8 @@
   
  ## Benefícios
   
-   Com o arquivo de texto é possível configurar a API (querys lentas, ativar/desativar a interface e o CSV) conforme a necessidade do usuário sem precisar da interface, 
-   o que torna possível o uso de agendadores de tarefas, responsáveis por rodar a aplicação que coletará estatisticas sempre que acionada.
+   Com o arquivo de texto é possível configurar a API (querys lentas e ativar/desativar) conforme a necessidade do usuário sem precisar da interface, 
+   o que torna possível o uso de agendadores de tarefas, responsáveis por rodar a aplicação que coletará estatisticas sempre que acionada. Além de agora possuir um banco simples    para armazenar as estatisticas e futuramente os parametros de conexão com o SGBD.
   
     
  ## Gráfico de Burndown
