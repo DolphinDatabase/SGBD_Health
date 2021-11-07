@@ -65,7 +65,14 @@
  - ✔️ Salvar consultas em CSV.
  - ✔️ Tabular métricas.  
  - ✔️ Conexão com servidor através de arquivo externo.
- - ✔️ 
+ - ✔️ Banco Simples (SQlite3)
+ - ✔️ Queries lentas
+ - ✔️ Métricas de armazenamento de índices
+ - ✔️ Configuração de exibição
+ - ✔️ Rotina de coleta e armazenamento de métricas
+ - ✔️ Conexão banco simples
+ - ✔️ Armazenar parâmetro de conexão
+ - ✔️ Armazenar estatísticas
 
  
 ## Tecnologias
