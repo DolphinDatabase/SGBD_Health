@@ -53,10 +53,7 @@
   
  ### 6. Conexão banco simples
  - Se conectar ao banco simples (SQlite3) da aplicação pelo arquivo de texto.
-  
- ### 7. Armazenar parâmetro de conexão
- - Armazenar os parâmetros de conexão que deveram ser informados através do SHELL.
-  
+    
  ### 8. Armazenar estatísticas
  - Armazenar no banco sqlite3 conforme a modelagem as estatísticas coletadas de todos os servidores.
 
