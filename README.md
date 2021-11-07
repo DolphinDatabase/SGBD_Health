@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/Sprint-3/Images%20Sprint%203/Story%20card.jpg?w=400"height="400" width="700" />
+  <img src="?w=400"height="400" width="700" />
 
 </p>
 <h1 align="center"> Story Card  </h1>  
@@ -12,7 +12,7 @@
 
  * [Descrição](#descrição)
  * [User story](#user-story)  
- * [Funcionalidades desenvolvidas](#funcionalidades-desenvolvidas)
+ * [Funcionalidades a serem desenvolvidas](#funcionalidades-a-serem-desenvolvidas)
  * [Ilustração das funcionalidades](#ilustração-das-funcionalidades)
  * [Benefícios](#benefícios)
  * [Gráfico de Burndown](#gráfico-de-burndown)  
@@ -22,7 +22,7 @@
 ## Descrição  
 
 
-<p align="justified"> Nessa sprint serão apresentadas as funções geradas através das métricas coletadas para que seja possível visualizar de uma maneira geral o crescimento e o status do SGBD. 
+<p align="justified"> 
 
   
 ## User story  
@@ -33,32 +33,24 @@
  | Diretor da Necto System. | As funções geradas através das métricas coletadas.  | Seja possível visualizar de maneira geral o crescimento e status do SGBD. |
   
  
-## Funcionalidades desenvolvidas  
+## Funcionalidades a serem desenvolvidas  
   
   
- ### 1. Banco Simples (SQlite3) 
- - Modelar e desenvolver um banco simples no SQlite3 que será responsável por armazenar as estatíticas coletadas e armazenar os parâmetros de conexão com o servidor.
+ ### 1. Relatório do Servidor 
+ - Desenvolver um relatório que informe as 5 queries mais lentas do servidor, comparativo entre o espaço em disco utilizado e o livre, quantidade de queries lentas e o total de queries do servidor, quantidade de indices não utilizados e o total de indices, espaço ocupado pelos indices e o espaço livre, quantidade de rollbacks e o total de transações.
   
- ### 2. Queries lentas
- - As queries lentas devem ser parametrizadas através do "arquivo txt parâmetro".
+ ### 2. Conexão com todos os servidores
+ - Se conectar com todos os servidores onde há coleta de estatisticas.
   
- ### 3. Métricas de armazenamento de índices
- - Coletar e armazenar as métricas que indicam o espaço ocupado pelos índices.
+ ### 3. Buscar relatórios de todos os servidores
+ - Fazer a coleta de todos os relatórios que foram gerados nos servidores onde a conexão foi estabelecida.
   
- ### 4. Configuração de exibição
- - Deverá ser opcional exibir informações no SHELL,  através do "arquivo txt parâmetro".
+ ### 4. Relatório geral de todos os servidores
+ - Desenvolver um relatório que contenha uma visão geral de todos os servidores conectados.
   
- ### 5. Rotina de coleta e armazenamento de métricas
- - A rotina de coleta e armazenamento de métricas deverá ser feita pelo SO Windows/Linux. Essa funcionalidade depende da interface desativada, quando desativada será possível agendar tanto pelo Windows quanto pelo Linux.
+ ### 5. Desenvolver alertas por parâmetro
+ - Alertar o usuário caso exista algum erro no servidor e deverá ser possível ajustar o parâmetro via "txt" que irá acionar o alarme.
   
- ### 6. Conexão banco simples
- - Se conectar ao banco simples (SQlite3) da aplicação pelo arquivo de texto.
-  
- ### 7. Armazenar parâmetro de conexão
- - Armazenar os parâmetros de conexão que deveram ser informados através do SHELL.
-  
- ### 8. Armazenar estatísticas
- - Armazenar no banco sqlite3 conforme a modelagem as estatísticas coletadas de todos os servidores.
 
   
  ## Ilustração das funcionalidades   
@@ -66,16 +58,13 @@
   ### Modelagem    
   
    <p align="left">
-  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/Sprint-3/Images%20Sprint%203/Modelagem.jpg?w=200"height="400" width="600" /> 
+  <img src="?w=200"height="400" width="600" /> 
    
-   <p align="left">
-  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/Sprint-3/Images%20Sprint%203/Modelagem_3.png?w=200"height="400" width="600" />   
-     
-    
-  
+
+       
  ## Benefícios
   
-   Com o overview das funções é possível visualizar o crescimento dp SGBD, além de ser ajustável o período em que as métricas serão coletadas. 
+   
   
     
  ## Gráfico de Burndown
