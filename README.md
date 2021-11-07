@@ -69,7 +69,7 @@
   <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/Sprint-3/Images%20Sprint%203/Modelagem.jpg?w=200"height="400" width="600" /> 
    
    <p align="left">
-  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/Sprint-3/Images%20Sprint%203/Modelagem_3.png?w=200"height="400" width="600" />   
+  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/Sprint-3/Images%20Sprint%203/Modelagem_3.png?w=200"height="430" width="600" />   
      
     
   
@@ -81,7 +81,8 @@
     
  ## Gráfico de Burndown
   
-![Badge](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-yellow)
+ <p align="left">
+  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/Sprint-3/Images%20Sprint%203/Burndown%20sprint%203.png?w=200"height="500" width="1300" /> 
 
   
   
