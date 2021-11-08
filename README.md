@@ -10,12 +10,18 @@
 ## Tabela de Conteúdos  
 
 
+ * [Como executar a aplicação](#como-executar-a-aplicação)
  * [Descrição](#descrição)
  * [User story](#user-story)  
  * [Funcionalidades desenvolvidas](#funcionalidades-desenvolvidas)
  * [Ilustração das funcionalidades](#ilustração-das-funcionalidades)
  * [Benefícios](#benefícios)
  * [Gráfico de Burndown](#gráfico-de-burndown)  
+ 
+ 
+## Como executar a aplicação
+
+
 
 
 
