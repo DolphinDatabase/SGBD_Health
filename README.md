@@ -88,7 +88,7 @@
  
 ## Ilustração
  
- Para acessar o vídeo de demonstração da aplicação em uso, clique [aqui](https://youtu.be/BVyXYbi0GmM).
+ Para acessar o vídeo de demonstração da aplicação em uso, clique [aqui](https://www.youtube.com/watch?v=BVyXYbi0GmM).
  
 ## Cronograma do API
  
