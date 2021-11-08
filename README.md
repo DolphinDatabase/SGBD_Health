@@ -21,6 +21,10 @@
  
 ## Como executar a aplicação
 
+### Para executar a aplicação:
+ 
+ 1 - Documentação to tutorial acesse [aqui]()  
+ 2 - Arquivo executável da aplicação acesse [aqui](https://drive.google.com/file/d/15mTo4FzNMsi9JHQx2P8fIMLaEC3vwdjt/view)  
 
 
 
