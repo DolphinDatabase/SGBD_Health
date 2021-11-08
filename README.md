@@ -23,7 +23,7 @@
 
 ### Para executar a aplicação:
  
- 1 - Documentação do tutorial acesse [aqui]()  
+ 1 - Documentação do tutorial acesse [aqui](https://github.com/DolphinDatabase/SGBD_Health/blob/Sprint-3/Documenta%C3%A7%C3%A3o%20sprint%203/Como%20rodar%20a%20API%20-%20sprint%203.pdf)  
  2 - Arquivo executável da aplicação acesse [aqui](https://drive.google.com/file/d/15mTo4FzNMsi9JHQx2P8fIMLaEC3vwdjt/view)  
 
 
