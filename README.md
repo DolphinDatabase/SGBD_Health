@@ -35,7 +35,7 @@
  #### **Como executar** 
   
   1. Documentação do passo a passo do tutorial [aqui](https://github.com/DolphinDatabase/SGBD_Health/blob/main/Documenta%C3%A7%C3%A3o/Como%20rodar%20a%20API%20-%20sprint%203.pdf).
-  2. Para o vídeo do tutorial clique [aqui](https://www.youtube.com/watch?v=zVTsaxL_-l4).
+  2. Para o vídeo do tutorial clique [aqui](https://www.youtube.com/watch?v=BVyXYbi0GmM).
   
   
 ## Product Backlog 
