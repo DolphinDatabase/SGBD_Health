@@ -69,7 +69,7 @@
   <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/Sprint-3/Images%20Sprint%203/Modelagem_3.png?w=200"height="430" width="600" />   
      
      
-  #### Para acessar o vídeo de apresentação da aplicação clique [aqui]()
+  #### Para acessar o vídeo de apresentação da aplicação clique [aqui](https://youtu.be/BVyXYbi0GmM)
      
     
   
