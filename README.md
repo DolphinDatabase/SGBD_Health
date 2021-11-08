@@ -30,7 +30,7 @@
  #### **Pré-requisitos** 
   
   1. Instalação do **JDK** ou no mínimo **JRE versão 1.8** acesse [aqui](https://www.oracle.com/java/technologies/downloads/).
-  2. Download da aplicação acesse [aqui]https://drive.google.com/file/d/15mTo4FzNMsi9JHQx2P8fIMLaEC3vwdjt/view).
+  2. Download da aplicação acesse [aqui](https://drive.google.com/file/d/15mTo4FzNMsi9JHQx2P8fIMLaEC3vwdjt/view).
  
  #### **Como executar** 
   
