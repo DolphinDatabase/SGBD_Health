@@ -61,7 +61,7 @@
   ### Arquivo Parâmetro - Configurações do SGBDHealth    
   
    <p align="left">
-  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/Sprint-4/Images%20Sprint%204/PARAMETRO.png"height="600" width="8000" /> 
+  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/Sprint-4/Images%20Sprint%204/PARAMETRO.png"height="600" width="800" /> 
    
   ### Relatório Diário do Servidor   
   
