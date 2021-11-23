@@ -71,7 +71,7 @@
        
  ## Benefícios
   
-   Com o relatório é possível obter estatisticas gerais de cada serividor, além de possuir um TOP 5 Queries Lentas. Assim é possível gerar um relatório sobre todos os servidores    que é responsável por indicar entre todos os servidores utilizados qual deles precisa de manutenção.
+   Com o relatório é possível analisar de maneira geral a situação do servidor pois possui um TOP 5 das métricas coletadas, além disso o relatório é gerado diariamente contendo os momentos que a aplicação foi utilizada separada pela hora, sendo assim quando um alarme que é ajustado conforme a necessidade do usuário for acionado, é possível identificar facilmente quando ocorreu e analisar momentos antes do erro.
   
     
  ## Gráfico de Burndown
