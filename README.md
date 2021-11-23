@@ -71,7 +71,7 @@
        
  ## Benefícios
   
-   Com o relatório é possível analisar de maneira geral a situação do servidor pois possui um TOP 5 das métricas coletadas, além disso o relatório é gerado diariamente contendo os momentos que a aplicação foi utilizada separada pela hora. Sendo assim quando um alarme que é ajustado conforme a necessidade do usuário for acionado, é possível identificar facilmente quando ocorreu e analisar momentos antes do erro.
+   Com o relatório é possível analisar de maneira geral a situação do servidor pois possui um TOP 5 das métricas coletadas, além disso o relatório é gerado diariamente contendo os momentos que a aplicação foi utilizada separada pela hora. Sendo assim quando um alarme que é ajustado conforme a necessidade do usuário for acionado, é possível identificar o erro facilmente a analisar dados anteriores.
   
     
  ## Gráfico de Burndown
