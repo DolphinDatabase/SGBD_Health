@@ -68,6 +68,11 @@
    <p align="left">
   <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/Sprint-4/Images%20Sprint%204/RELATORIO.png"height="700" width="1100" /> 
      
+  ### Alerta recebido por E-mail
+     
+   <p align="left">
+    <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/Sprint-4/Images%20Sprint%204/imagem_2021-11-23_194146.png"height="700" width="1100" /> 
+     
        
  ## Benefícios
   
