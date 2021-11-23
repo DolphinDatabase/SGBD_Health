@@ -46,7 +46,7 @@
  - Se conectar com o servidor através dos parâmetros de conexão inseridos no banco de dados da aplicação.
   
  ### 4. Desenvolver alertas por parâmetro
- - Alertar o usuário no email informado dentro do arquivo de configuração, caso exista algum erro no servidor e deverá ser possível ajustar o parâmetro via "txt" que irá acionar    o alarme.
+ - Alertar o usuário no e-mail informado dentro do arquivo de configuração, caso exista algum erro no servidor e deverá ser possível ajustar o parâmetro via "txt" que irá      acionar o alarme. Dentro do e-mail deverá ser anexado o relatório do dia.
   
   
 
