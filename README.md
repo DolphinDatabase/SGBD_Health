@@ -37,22 +37,17 @@
   
   
  ### 1. Relatório do Servidor 
- - Desenvolver um relatório que informe as 5 queries mais lentas do servidor, comparativo entre o espaço em disco utilizado e o livre, quantidade de queries lentas e o total de queries do servidor, quantidade de indices não utilizados e o total de indices, espaço ocupado pelos indices e o espaço livre, quantidade de rollbacks e o total de transações.
+ - Desenvolver um relatório diário que possua um TOP 5 do espaço ocupado pelos bancos dos servidores, das queries mais lentas, dos índicies que mais ocupam e das transações que    mais deram rollback.
   
- ### 2. Conexão com todos os servidores
- - Se conectar com todos os servidores onde há coleta de estatisticas.
-  
- ### 3. Buscar relatórios de todos os servidores
- - Fazer a coleta de todos os relatórios que foram gerados nos servidores onde a conexão foi estabelecida.
-  
- ### 4. Relatório geral de todos os servidores
- - Desenvolver um relatório que contenha uma visão geral de todos os servidores conectados.
-  
- ### 5. Desenvolver alertas por parâmetro
- - Alertar o usuário caso exista algum erro no servidor e deverá ser possível ajustar o parâmetro via "txt" que irá acionar o alarme.
-  
- ### 6. Armazenar parâmetro de conexão
+ ### 2. Armazenar parâmetro de conexão
  - Armazenar os parâmetros de conexão que deveram ser informados através do SHELL.
+  
+ ### 3. Conexão ao Servidor 
+ - Se conectar com o servidor através dos parâmetros de conexão inseridos no banco de dados da aplicação.
+  
+ ### 4. Desenvolver alertas por parâmetro
+ - Alertar o usuário no email informado dentro do arquivo de configuração, caso exista algum erro no servidor e deverá ser possível ajustar o parâmetro via "txt" que irá acionar    o alarme.
+  
   
 
   
