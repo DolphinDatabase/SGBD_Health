@@ -68,7 +68,9 @@
    <p align="left">
     <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/Sprint-4/Images%20Sprint%204/imagem_2021-11-23_194146.png"height="400" width="700" /> 
      
-       
+      
+ #### Para acessar o vídeo de apresentação da aplicação clique [aqui](https://www.youtube.com/watch?v=IhyabBKAMbA)
+     
  ## Benefícios
   
    Com o relatório é possível analisar de maneira geral a situação do servidor pois possui um TOP 5 das métricas coletadas, além disso o relatório é gerado diariamente contendo os momentos que a aplicação foi utilizada separada pela hora. Sendo assim quando um alarme que é ajustado conforme a necessidade do usuário for acionado, é possível analisar o erro através dos dados anteriores disponíveis. 
