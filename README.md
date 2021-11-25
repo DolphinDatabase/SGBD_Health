@@ -81,7 +81,7 @@
   ### Arquivo de Configuração
   
    <p align="left">
-  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/Sprint-3/Images%20Sprint%203/parametro%20arquivo.png?w=200"height="800" width="800" /> 
+  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/Sprint-3/Images%20Sprint%203/parametro%20arquivo.png?w=200"height="800" width="900" /> 
      
      
   #### Para acessar o vídeo de apresentação da aplicação clique [aqui](https://youtu.be/BVyXYbi0GmM)
