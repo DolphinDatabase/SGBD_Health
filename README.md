@@ -9,9 +9,11 @@
 
  * [Descrição](#descrição)
  * [Pré-requisitos e como executar a aplicação](#Pré-requisitos-e-como-executar-a-aplicação)
- * [Backlog Product](#backlog-product)  
+ * [Backlog Product](#backlog-product) 
+ * [Backlog em Story cards](#backlog-em-story-cards)   
  * [Coletor de Estatísticas](#Coletor-de-Estatísticas)
- * [Escopo de Recursos](#escopo-de-recursos)  
+ * [Escopo de Recursos](#escopo-de-recursos)
+ * [Roadmap](#roadmap)
  * [Tecnologias](#Tecnologias)
  * [Cronograma do API](#cronograma-do-api)
  * [Dev Team](#dev-team)
@@ -57,6 +59,11 @@
  - Cadastro de dados de conexão dos SGBDs (acesso à estastítica por tabelas).
 
   
+## Backlog em Story cards
+<p align="center">
+  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/main/Images/Story%20cards.png" alt="Sublime's custom image?w=100"height="600" width="940" />    
+  
+  
 ## Escopo de Recursos
  - ✔️ Conexão SGBD.
  - ✔️ Coleta e consulta de métricas.
@@ -73,6 +80,10 @@
  - ✔️ Conexão banco simples
  - ✔️ Armazenar estatísticas
 
+## Roadmap
+<p align="center">
+  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/main/Images/Roadmap.jpg" alt="Sublime's custom image?w=100"height="400" width="990" />  
+   
  
 ## Tecnologias
 
