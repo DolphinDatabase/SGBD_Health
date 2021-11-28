@@ -10,6 +10,7 @@
 ## Tabela de Conteúdos  
 
 
+ * [Como executar a aplicação](#como-executar-a-aplicação)
  * [Descrição](#descrição)
  * [User story](#user-story)  
  * [Funcionalidades a serem desenvolvidas](#funcionalidades-a-serem-desenvolvidas)
@@ -18,6 +19,12 @@
  * [Gráfico de Burndown](#gráfico-de-burndown)  
 
 
+## Como executar a aplicação
+
+### Para executar a aplicação:
+ 
+ 1 - Documentação do tutorial acesse [aqui]()  
+ 2 - Arquivo executável da aplicação acesse [aqui]()
 
 ## Descrição  
 Nessa sprint apresentaremos os relatórios gerais gerados por cada servidor para monitoramento do status do SGBD.
