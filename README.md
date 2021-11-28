@@ -32,7 +32,7 @@
  #### **Pré-requisitos** 
   
   1. Instalação do **JDK** ou no mínimo **JRE versão 1.8** acesse [aqui](https://www.oracle.com/java/technologies/downloads/).
-  2. Instalação do DB Browser (SQlite) acesse [aqui] (https://sqlitebrowser.org/dl/).
+  2. Instalação do DB Browser (SQlite) acesse [aqui](https://sqlitebrowser.org/dl/).
   3. Download da aplicação acesse [aqui](https://drive.google.com/file/d/1A1-pADaB350oxTsHmCnbaGrH6kgtUnUb/view?usp=sharing).
  
  #### **Como executar** 
