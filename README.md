@@ -23,7 +23,7 @@
 
 ### Para executar a aplicação:
  
- 1 - Documentação do tutorial acesse [aqui]()  
+ 1 - Documentação do tutorial acesse [aqui](https://github.com/DolphinDatabase/SGBD_Health/blob/Sprint-4/Documenta%C3%A7%C3%A3o%20sprint%204/MANUAL%20SGBDHEALTH%20.pdf)  
  2 - Arquivo executável da aplicação acesse [aqui]()
 
 ## Descrição  
