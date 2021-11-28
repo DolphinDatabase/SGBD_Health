@@ -79,9 +79,9 @@ Nessa sprint apresentaremos os relatórios gerais gerados por cada servidor para
  ## Gráfico de Burndown
      
  <p align="left">
-  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/Sprint-3/Images%20Sprint%203/Burndown%20sprint%203.png?w=200"height="500" width="1300" /> 
+  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/Sprint-4/Images%20Sprint%204/burndown%204.png?w=200"height="500" width="1300" /> 
   
-![Badge](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-yellow)
+
 
   
   
