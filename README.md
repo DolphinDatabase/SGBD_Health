@@ -32,7 +32,8 @@
  #### **Pré-requisitos** 
   
   1. Instalação do **JDK** ou no mínimo **JRE versão 1.8** acesse [aqui](https://www.oracle.com/java/technologies/downloads/).
-  2. Download da aplicação acesse [aqui](https://drive.google.com/file/d/15mTo4FzNMsi9JHQx2P8fIMLaEC3vwdjt/view).
+  2. Instalação do DB Browser (SQlite) acesse [aqui] (https://sqlitebrowser.org/dl/).
+  3. Download da aplicação acesse [aqui](https://drive.google.com/file/d/1A1-pADaB350oxTsHmCnbaGrH6kgtUnUb/view?usp=sharing).
  
  #### **Como executar** 
   
@@ -48,15 +49,13 @@
    - Tratamento de métricas de forma tabular;  
    - Salvar consultas em CSV;
    - Tabular métricas;
-   - Conexão com servidor através de arquivo externo;
    - Coleta periódica de métricas;
    - Histórico de métricas;
    - Relatórios de métricas;
-   - Alertas de espaço em disco do SGBD;
+   - Alertas por email;
    - Funcionamento do BD (tempo e quantidade de queries e uso de índices).
- - Plotagem de gráficos através de um dashboard/interface:
-   - Interface gráfica inicial.
- - Cadastro de dados de conexão dos SGBDs (acesso à estastítica por tabelas).
+   - Ativar ou Desativar Interface Gráfica;
+   - Cadastro de dados de conexão dos SGBDs (acesso à estastítica por tabelas).
 
   
 ## Backlog em Story cards
@@ -65,20 +64,25 @@
   
   
 ## Escopo de Recursos
- - ✔️ Conexão SGBD.
- - ✔️ Coleta e consulta de métricas.
- - ✔️ Interface inicial.
- - ✔️ Tratamento de métricas de forma tabular.  
- - ✔️ Salvar consultas em CSV.
- - ✔️ Tabular métricas.  
- - ✔️ Conexão com servidor através de arquivo externo.
- - ✔️ Banco Simples (SQlite3)
- - ✔️ Queries lentas
- - ✔️ Métricas de armazenamento de índices
+ - ✔️ Conexão SGBD;
+ - ✔️ Coleta e consulta de métricas;
+ - ✔️ Interface inicial configurável;
+ - ✔️ Tratamento de métricas de forma tabular;  
+ - ✔️ Salvar consultas em CSV;
+ - ✔️ Tabular métricas;  
+ - ✔️ Banco Simples (SQlite3);
+ - ✔️ Métricas de queries lentas;
+ - ✔️ Métricas de uso de índices;
+ - ✔️ Métricas de trasações (rollbacks);
+ - ✔️ Métricas de armazenamento de índices;
+ - ✔️ Métricas de armazenamento dos bancos;
  - ✔️ Configuração de exibição
  - ✔️ Rotina de coleta e armazenamento de métricas
  - ✔️ Conexão banco simples
  - ✔️ Armazenar estatísticas
+ - ✔️ Configuração de alertas por email;
+ - ✔️ Configuração de queries lentas;
+ - ✔️ Relatórios diários;
 
 ## Roadmap
 <p align="center">
