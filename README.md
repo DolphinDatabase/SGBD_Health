@@ -60,7 +60,7 @@
   
 ## Backlog em Story cards
 <p align="center">
-  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/main/Images/Story%20cards.png" alt="Sublime's custom image?w=100"height="600" width="1000" />    
+  <img src="https://github.com/DolphinDatabase/SGBD_Health/blob/main/Images/Story%20cards.png" alt="Sublime's custom image?w=100"height="600" width="1300" />    
   
   
 ## Escopo de Recursos
